@@ -1,0 +1,8 @@
+extract*
+repack
+out_*
+*_data.txt
+*_output.txt
+*.nds
+*.idb
+*.xdelta
