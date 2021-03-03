@@ -1,8 +1,10 @@
 extract*
 repack*
 out_*
+voice*
 *_data.txt
 *_output.txt
 *.nds
+*.wav
 *.idb
 *.xdelta
