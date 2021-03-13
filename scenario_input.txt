@@ -3326,7 +3326,7 @@
 投票の結果　月くんが検挙されました|で？　どうだったんですか　月くん=In accordance with the vote, Light has been arrested.|So, Light? Did we vote correctly?
 そうだ　僕がキラだ=
 それでは　捜査員の勝利ですね|…ゲーム終了です=Which means victory goes to the investigators.|The game is over.
-やれやれ…|最初に見つかると|弁明のしようがない=That was quick. I can't believe you got me immediately.
+やれやれ…|最初に見つかると|弁明のしようがないな=That was quick. I can't believe you got me immediately.
 竜崎はなぜ僕を調べたんだ？=But why were you so sure it was me, Ryuzaki?
 勘です=
 ……=
