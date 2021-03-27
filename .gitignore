@@ -2,6 +2,7 @@ extract*
 repack*
 out_*
 voice*
+font_data.bin
 *_data.txt
 *_output.txt
 *.nds
