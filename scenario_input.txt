@@ -1829,12 +1829,12 @@
 極力　外では話しかけるな|僕の声は　リュークと違って|人に聞こえるんだ=Try not to talk to me while we're outside. Unlike you, people can hear my voice.
 考え事かしら　夜神…　月さん|独り言が大きいのは　クセなの？=I was wondering, Light Yagami... Do you always talk to yourself so much?
 ……ッ！？=!?
-私は　間木…　<col4>間木照子|<col8>キラに殺された　ＦＢＩ捜査官|レイ＝ペンバーの　婚約者です=My name is <col4>Shoko Maki<col8>. Raye Penber, the FBI agent who was killed by Kira, was my fiancé.
+私は　間木…　<col4>間木照子|<col8>キラに殺された　ＦＢＩ捜査官|レイ＝ペンバーの　婚約者です=My name is <col4>Shoko Maki<col8>. Raye Penber, the FBI agent who was killed by Kira, was my fiance.
 私の考えていることが　正しければ|バスジャックの　乗客の中にキラがいる…|レイは　はっきり言った|やむをえず　バスの中で人に|ＦＢＩの身分証を見せた…と=If my analysis so far is correct, Kira was among the passengers on the bus in that jacking. Raye told me he had been put in a situation where he had to show his FBI ID to someone.
 そして　キラは　日本警察の|内部情報を　知る立場にあるはず|あのバスの沿線に住み　警察局長の息子|そして自身も　捜査本部に籍を置く|夜神月…　あなたがキラなの…？=
 私ひとりの調査では　ここまでが限界|ここから先は　どうしても夜神月本人に|接触しなければ…=That's as far as I could get. From this point on, I have to investigate him more directly.
 これ　名刺です|月さん…　あなたのお父様は|刑事局の局長だとか=Here's my business card. Light, your father is the chief of the NPA, correct?
-なんなんだ…　この女…　間木照子？|フリージャーナリスト…？|レイ＝ペンバーの婚約者！？=What!? This woman, Shoko Maki... Is she really Raye Penber's fiancée? Is she a freelance journalist?
+なんなんだ…　この女…　間木照子？|フリージャーナリスト…？|レイ＝ペンバーの婚約者！？=What!? This woman, Shoko Maki... Is she really Raye Penber's fiancee? Is she a freelance journalist?
 ククク…　間木照子か　なるほど|ククククク…=Kekeke... Shoko Maki, huh? I see. Kekekekeke...
 くそっ　リュークのやつ|つけられていることを　知っていて|黙っていたな…=Dammit, Ryuk. He knows something, but he'll never tell me.
 私も　独自にレイの死の原因…|キラについて　調べています|そして　わかったんです=After Raye's death, I began investigating Kira on my own, and I figured it out.
@@ -1901,7 +1901,7 @@
 では　少し詳しく聞かせてください|まずは　バスジャック事件の日時を|教えてもらえますか？=Now, could you please tell me the date and time of the busjacking incident?
 こういうときのために　用意はしてある=I was prepared for such an incident.
 この女　バカじゃなさそうだ|自分で遺体が　見つからないよう操って|自殺させれば　遺体発見も遅れるだろう=This woman isn't stupid. She can kill herself in such a way that no one will find her body.
-先々見つかっても|婚約者の死という　理由もある=And even if they do, they'll just assume the death of her fiancé drove her to commit suicide.
+先々見つかっても|婚約者の死という　理由もある=And even if they do, they'll just assume the death of her fiance drove her to commit suicide.
 ふふふ…　さようなら　間木照子さん=Hmhmhm... Go on. Hurry to your death, Shoko Maki.
 ここで　お話しするより|私を　捜査本部に|連れて行って　いただけませんか？=Rather than talking here, maybe you could take me to the investigation head quarters?
 ああ…　そうですね=Right. Of course.
