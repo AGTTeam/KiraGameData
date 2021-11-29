@@ -148,15 +148,15 @@ work_IMG
 			次の説明を聞く
 			もう一度同じ説明を聞く
 		modeselect.png
-			モード｜セレクト
-			シングル｜モード
-			対戦｜モード
-			エキストラ
-			ゲーム｜解説
-			戻る
-			オプション
+			モード｜セレクト = Mode Select
+			シングル｜モード = Solo
+			対戦｜モード = VS
+			エキストラ = Extras
+			ゲーム｜解説 = How to play
+			戻る = Return
+			オプション = Options
 		modeselect2.png
-			ストーリー｜モード
+			ストーリー｜モード = Story Mode
 		option.png
 			オプション
 			音楽音量
