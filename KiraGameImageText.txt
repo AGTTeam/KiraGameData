@@ -1,9 +1,9 @@
 work_IMG
 	common
 		underbg2.png
-			心臓麻痺 = cardioplegia #maybe heart attack
+			心臓麻痺 = Heart Attack
 		underbg3.png
-			脱落 = #context
+			脱落 = Out
 	kira_game
 		continue.png
 			ゲームを｜やり直す
@@ -14,44 +14,24 @@ work_IMG
 			相手が選択中です
 			しばらくお待ちください・・・・・・
 		deathnote.png
-			「L」以外の人を裁くと｜発言力の最大値が半分になります｜デスノートをタッチすると、デスノートを使います
-			戻る
-		face.png
+			「L」以外の人を裁くと｜発言力の最大値が半分になります｜デスノートをタッチすると、デスノートを使います = Judging someone who is not L will halve your maximum influence. Tap the Death Note to use it.
+			戻る = Return
+		face.png#Phantom
 			脱落
-		fukidasi.png
-			疑惑 ↑
-			信頼 ↓
-			疑惑 ↑↑
-			信頼 ↓↓
-			疑惑 ↑
-			疑惑 ↑↑
-			対抗
-			同調
-			反論
-			必殺！
-			疑惑全↑
-			疑惑全↓
-			専用
-			決定
-			発言力回復
-			発言
-			最大値↑
-			疑惑 ↑
-			信頼 ↓
-			疑惑 ↑↑
-			信頼 ↓↓
-			疑惑 ↑
-			疑惑 ↑↑
-			必殺！
-			疑惑全↑
-			疑惑全↓
-			発言力回復
-			発言
-			最大値↑
-			専用
-			同調
-			反論
-			対抗
+		fukidasi.png#Phantom
+			疑惑 ↑=Doubt ↑
+			信頼 ↓=Trust ↓
+			同調=Agree
+			反論=Counter
+			対抗=Argue
+			必殺！=
+			専用=Unique
+			決定=Vote
+			発言力回復=Influence ↑
+			発言=Influence
+			疑惑全↑=Doubt ↑ All
+			疑惑全↓=Doubt ↓ All
+			最大値↑=Max ↑
 		function.png
 			機能
 			キラゲーム｜を｜やり直す
@@ -76,11 +56,11 @@ work_IMG
 			しばらくお待ちください・・・・・・
 			投票画面へ
 		playguide.png
-			ゲーム解説
-			チュートリアル
-			チュートリアル
-			プレイメモ
-			戻る
+			ゲーム解説 = Guide
+			チュートリアル = Tutorial
+			チュートリアル = Tutorial
+			プレイメモ = Play Memos
+			戻る = Return
 		touhyou.png
 			決定
 			０ー７票
@@ -109,60 +89,60 @@ work_IMG
 		0_title.png
 			キラゲーム
 		ex_inspect.png
-			CG閲覧
+			CG閲覧 = CG Viewer
 			必殺演出｜閲覧
-			戻る
-			月
-			竜崎
-			海砂
-			総一郎
-			松田
-			模木
-			ナオミ
-			粧裕
-			相沢
-			レイ
-			ワタリ
-			火口
-			奈南川
-			尾々井
-			ニア
-			メロ
-			魅上
-			高田
+			戻る = Return
+			月 = Light
+			竜崎 = Ryuzaki
+			海砂 = Misa
+			総一郎 = Soichiro
+			松田 = Matsuda
+			模木 = Mogi
+			ナオミ = Naomi
+			粧裕 = Sayu
+			相沢 = Aizawa
+			レイ = Raye
+			ワタリ = Watari
+			火口 = Higuchi
+			奈南川 = Namikawa
+			尾々井 = Ooi
+			ニア = Near
+			メロ = Mello
+			魅上 = Mikami
+			高田 = Takada
 			選択画面に戻る
 			イベントCG
 		extra.png
-			エキストラ
-			サウンド｜テスト
-			サウンド｜テスト
-			CG閲覧
+			エキストラ = Extras
+			サウンド｜テスト = Sound Test
+			サウンド｜テスト = Sound Test
+			CG閲覧 = CG Viewer
 			必殺演出｜閲覧
-			音楽
-			効果音
-			戻る
-		face.png
+			音楽 = Music
+			効果音 = SFX
+			戻る = Return
+		face.png#Phantom
 		information.png
 		information2.png
 			話をスキップする
 			次の説明を聞く
 			もう一度同じ説明を聞く
 		modeselect.png
-			モード｜セレクト
-			シングル｜モード
-			対戦｜モード
-			エキストラ
-			ゲーム｜解説
-			戻る
-			オプション
+			モード｜セレクト = Mode Select
+			シングル｜モード = Solo
+			対戦｜モード = VS
+			エキストラ = Extras
+			ゲーム｜解説 = Guide
+			戻る = Return
+			オプション = Options
 		modeselect2.png
-			ストーリー｜モード
+			ストーリー｜モード = Story Mode
 		option.png
-			オプション
-			音楽音量
-			効果音音量
-			戻る
-			全ての記録を消す
+			オプション = Options
+			音楽音量 = Music Volume
+			効果音音量 = SFX Volume
+			戻る = Return
+			全ての記録を消す = Erase save data
 		playguide.png
 		playmemo.png
 			プレイメモ
@@ -179,7 +159,7 @@ work_IMG
 			プレイメモ１０｜「信頼度であぶり出し」
 			プレイメモ１１｜「対戦モードのコツ」
 			プレイメモ１２｜「プレイメモを越えろ」
-		single.png
+		single.png#Phantom
 			シングル｜モード
 			開始
 			プレイキャラ｜選択
@@ -195,7 +175,7 @@ work_IMG
 			サポート表示設定
 			あり
 			なし
-		single2.png
+		single2.png#Phantom
 			ルールの｜設定
 			戻る
 			発言力初期値設定
@@ -240,9 +220,9 @@ work_IMG
 			第１１話　竜崎｜「正義」
 		title_under.png
 			をタッチ
-		tuto_face.png
+		tuto_face.png#Phantom
 			脱落
-		tuto_game.png #reference fukidasi.png
+		tuto_game.png #reference fukidasi.png Phantom
 		tuto2_intro.png
 			画面タッチで進みます
 		tutorial.png
@@ -358,7 +338,7 @@ work_NSBMD
 			脱落
 		bg043a_bg043a.png
 			キラの｜裁き
-		douchou_douchou.png
+		douchou_douchou.png#Phantom
 			同調
 		etut00k_etut00k.png
 			キラ役の使命はLへの裁き
@@ -459,9 +439,9 @@ work_NSBMD
 			・投票の結果キラを検挙した
 		getapple_getapple.png
 			ボーナス条件達成
-		giwaku2a_giwaku2a.png
+		giwaku2a_giwaku2a.png#Phantom
 			疑惑
-		hanron_hanron.png
+		hanron_hanron.png#Phantom
 			反論
 		jyouken_jyouken.png
 			勝利条件
@@ -535,9 +515,9 @@ work_NSBMD
 		req20a_req20a.png
 			キラを｜１回目の投票パートで｜検挙してクリア
 			竜崎
-		taikou1a_taikou1a.png
+		taikou1a_taikou1a.png#leave for now
 			対抗発言に勝利！
-		taikou2a_taikou2a.png
+		taikou2a_taikou2a.png#leave for now
 			対抗発言に敗北
 		title04a_title04a.png
 		title05a_title05a.png
