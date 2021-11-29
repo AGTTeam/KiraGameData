@@ -1,9 +1,9 @@
 work_IMG
 	common
 		underbg2.png
-			心臓麻痺 = cardioplegia #maybe heart attack
+			心臓麻痺 = Heart Attack
 		underbg3.png
-			脱落 = #context
+			脱落 = Out
 	kira_game
 		continue.png
 			ゲームを｜やり直す
@@ -14,8 +14,8 @@ work_IMG
 			相手が選択中です
 			しばらくお待ちください・・・・・・
 		deathnote.png
-			「L」以外の人を裁くと｜発言力の最大値が半分になります｜デスノートをタッチすると、デスノートを使います
-			戻る
+			「L」以外の人を裁くと｜発言力の最大値が半分になります｜デスノートをタッチすると、デスノートを使います = Judging someone who is not L will halve your maximum influence. Tap the Death Note to use it.
+			戻る = Return
 		face.png
 			脱落
 		fukidasi.png
@@ -76,11 +76,11 @@ work_IMG
 			しばらくお待ちください・・・・・・
 			投票画面へ
 		playguide.png
-			ゲーム解説
-			チュートリアル
-			チュートリアル
-			プレイメモ
-			戻る
+			ゲーム解説 = Guide
+			チュートリアル = Tutorial
+			チュートリアル = Tutorial
+			プレイメモ = Play Memos
+			戻る = Return
 		touhyou.png
 			決定
 			０ー７票
@@ -109,38 +109,38 @@ work_IMG
 		0_title.png
 			キラゲーム
 		ex_inspect.png
-			CG閲覧
+			CG閲覧 = CG Viewer
 			必殺演出｜閲覧
-			戻る
-			月
-			竜崎
-			海砂
-			総一郎
-			松田
-			模木
-			ナオミ
-			粧裕
-			相沢
-			レイ
-			ワタリ
-			火口
-			奈南川
-			尾々井
-			ニア
-			メロ
-			魅上
-			高田
+			戻る = Return
+			月 = Light
+			竜崎 = Ryuzaki
+			海砂 = Misa
+			総一郎 = Soichiro
+			松田 = Matsuda
+			模木 = Mogi
+			ナオミ = Naomi
+			粧裕 = Sayu
+			相沢 = Aizawa
+			レイ = Raye
+			ワタリ = Watari
+			火口 = Higuchi
+			奈南川 = Namikawa
+			尾々井 = Ooi
+			ニア = Near
+			メロ = Mello
+			魅上 = Mikami
+			高田 = Takada
 			選択画面に戻る
 			イベントCG
 		extra.png
-			エキストラ
-			サウンド｜テスト
-			サウンド｜テスト
-			CG閲覧
+			エキストラ = Extras
+			サウンド｜テスト = Sound Test
+			サウンド｜テスト = Sound Test
+			CG閲覧 = CG Viewer
 			必殺演出｜閲覧
-			音楽
-			効果音
-			戻る
+			音楽 = Music
+			効果音 = SFX
+			戻る = Return
 		face.png
 		information.png
 		information2.png
@@ -152,17 +152,17 @@ work_IMG
 			シングル｜モード = Solo
 			対戦｜モード = VS
 			エキストラ = Extras
-			ゲーム｜解説 = How to play
+			ゲーム｜解説 = Guide
 			戻る = Return
 			オプション = Options
 		modeselect2.png
 			ストーリー｜モード = Story Mode
 		option.png
-			オプション
-			音楽音量
-			効果音音量
-			戻る
-			全ての記録を消す
+			オプション = Options
+			音楽音量 = Music Volume
+			効果音音量 = SFX Volume
+			戻る = Return
+			全ての記録を消す = Erase save data
 		playguide.png
 		playmemo.png
 			プレイメモ
