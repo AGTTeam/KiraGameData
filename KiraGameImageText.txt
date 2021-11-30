@@ -145,9 +145,9 @@ work_IMG
 			全ての記録を消す = Erase save data
 		playguide.png
 		playmemo.png
-			プレイメモ
-			戻る
-			プレイメモ０１｜「キラの見分け方」
+			プレイメモ = Play Memo
+			戻る = Back
+			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
 			プレイメモ０２｜「Lの見分け方」
 			プレイメモ０３｜「アシストメッセージ」
 			プレイメモ０４｜「リンゴについて」
