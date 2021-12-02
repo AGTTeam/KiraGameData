@@ -149,7 +149,7 @@ work_IMG
 			戻る = Back
 			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
 			プレイメモ０２｜「Lの見分け方」 = Play Memo 02|Finding L
-			プレイメモ０３｜「アシストメッセージ」
+			プレイメモ０３｜「アシストメッセージ」 = Play Memo 03|Helpful Messages
 			プレイメモ０４｜「リンゴについて」
 			プレイメモ０５｜「崇拝者」
 			プレイメモ０６｜「対抗発言」
