@@ -150,7 +150,7 @@ work_IMG
 			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
 			プレイメモ０２｜「Lの見分け方」 = Play Memo 02|Finding L
 			プレイメモ０３｜「アシストメッセージ」 = Play Memo 03|Helpful Messages
-			プレイメモ０４｜「リンゴについて」
+			プレイメモ０４｜「リンゴについて」= Play Memo 04|Apples
 			プレイメモ０５｜「崇拝者」
 			プレイメモ０６｜「対抗発言」
 			プレイメモ０７｜「キラの潜伏方法」
@@ -206,18 +206,18 @@ work_IMG
 			最初｜から
 			戻る
 			ストーリー｜セレクト
-			第１話｜「開始」
-			第２話｜「甘党」
-			第３話｜「接触」
-			第４話｜「追跡」
-			第５話｜「崩壊」
-			第６話｜「愛情」
-			第７話｜「監視」
-			第８話｜「潜入」
-			第９話｜「対面」
-			第１０話｜「終焉」
-			第１１話　月｜「神曲」
-			第１１話　竜崎｜「正義」
+			第１話｜「開始」= Chapter 1|Rebirth
+			第２話｜「甘党」= Chapter 2|Sweet Tooth
+			第３話｜「接触」= Chapter 3|Encounter
+			第４話｜「追跡」= Chapter 4|Pursuit
+			第５話｜「崩壊」= Chapter 5|Unraveling
+			第６話｜「愛情」= Chapter 6|Love
+			第７話｜「監視」= Chapter 7|Surveillance
+			第８話｜「潜入」= Chapter 8|Infiltration
+			第９話｜「対面」= Chapter 9|Confrontation
+			第１０話｜「終焉」= Chapter 10|Demise
+			第１１話　月｜「神曲」= Chapter 11 Light|Divinity
+			第１１話　竜崎｜「正義」= Chapter 11 Ryuzaki|Justice
 		title_under.png
 			をタッチ
 		tuto_face.png#Phantom
