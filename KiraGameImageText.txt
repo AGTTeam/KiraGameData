@@ -153,12 +153,12 @@ work_IMG
 			プレイメモ０４｜「リンゴについて」= Play Memo 04|Apples
 			プレイメモ０５｜「崇拝者」= Play Memo 05|Followers
 			プレイメモ０６｜「対抗発言」= Play Memo 06|Counter-Arguments
-			プレイメモ０７｜「キラの潜伏方法」
-			プレイメモ０８｜「キラの勝ちパターン」
-			プレイメモ０９｜「Lの勝ちパターン」
-			プレイメモ１０｜「信頼度であぶり出し」
-			プレイメモ１１｜「対戦モードのコツ」
-			プレイメモ１２｜「プレイメモを越えろ」
+			プレイメモ０７｜「キラの潜伏方法」= Play Memo 07|Hiding as Kira
+			プレイメモ０８｜「キラの勝ちパターン」= Play Memo 08|Winning as Kira
+			プレイメモ０９｜「Lの勝ちパターン」= Play Memo 09|Winning as L
+			プレイメモ１０｜「信頼度であぶり出し」= Unspoken Trust
+			プレイメモ１１｜「対戦モードのコツ」= Play Memo 11|Tips for VS Mode
+			プレイメモ１２｜「プレイメモを越えろ」= Play Memo 12|Surpass the Guide!
 		single.png#Phantom
 			シングル｜モード
 			開始
