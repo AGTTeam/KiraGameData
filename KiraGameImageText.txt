@@ -151,8 +151,8 @@ work_IMG
 			プレイメモ０２｜「Lの見分け方」 = Play Memo 02|Finding L
 			プレイメモ０３｜「アシストメッセージ」 = Play Memo 03|Helpful Messages
 			プレイメモ０４｜「リンゴについて」= Play Memo 04|Apples
-			プレイメモ０５｜「崇拝者」
-			プレイメモ０６｜「対抗発言」
+			プレイメモ０５｜「崇拝者」= Play Memo 05|Followers
+			プレイメモ０６｜「対抗発言」= Play Memo 06|Counter-Arguments
 			プレイメモ０７｜「キラの潜伏方法」
 			プレイメモ０８｜「キラの勝ちパターン」
 			プレイメモ０９｜「Lの勝ちパターン」
