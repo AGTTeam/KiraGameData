@@ -25,14 +25,25 @@ work_IMG
 			同調=Agree
 			反論=Counter
 			対抗=Argue
-			必殺！=
+			必殺！
 			専用=Unique
 			決定=Vote
 			発言力回復=Influence ↑
 			発言=Influence
 			疑惑全↑=Doubt ↑ All
 			疑惑全↓=Doubt ↓ All
-			最大値↑=Max ↑
+			最大値↑=Max Influence ↑
+			機能
+			発言力
+			疑惑度
+			あと　秒
+			思案中…
+			必殺発言内容
+			これでよろしいですか？
+			パス = Pass
+			画面タッチで次に進みます = Tap screen to continue.
+			必殺発言を行う人にスライドさせて下ください｜タッチで情報を確認します
+			対戦相手をお待ち下さい
 		function.png
 			機能 = Function
 			キラゲーム｜を｜やり直す = Restart Kira Game
@@ -217,9 +228,9 @@ work_IMG
 			サポート投票設定 = Hint Messages
 			３-６人 = 3  4  5  6 #Just remove kanji and center number
 	opening
-		op032d.png
+		op032d.png#done
 			「僕が」 = I AM...
-		op060d.png
+		op060d.png#done
 			正義だ！！ = JUSTICE!
 work_NSBMD
 	balloon
@@ -262,7 +273,7 @@ work_NSBMD
 		balh18a_balh18a.png
 			不愉快です = How unpleasant.#Takada
 	bg
-		bg006a_taikou.png
+		bg006a_taikou.png#done
 		bg010a_bg010a.png
 			Lの調査 = L's Investigation
 		bg011a_bg011a.png
@@ -282,7 +293,7 @@ work_NSBMD
 			脱落 = Out
 		bg043a_bg043a.png
 			キラの｜裁き = Kira's Judgement
-		douchou_douchou.png#Phantom
+		douchou_douchou.png#done
 		etut00k_etut00k.png
 			キラ役の使命はLへの裁き = Kira's objective is to judge L.
 			信頼度を最大にした相手から｜Lに関する情報が入手できる = Information relating to L can be obtained by raising Trust to its max with another player.
@@ -366,8 +377,8 @@ work_NSBMD
 			・投票の結果キラを検挙した = Kira arrested after vote
 		getapple_getapple.png
 			ボーナス条件達成 = Bonus conditions met
-		giwaku2a_giwaku2a.png#Phantom
-		hanron_hanron.png#Phantom
+		giwaku2a_giwaku2a.png#done
+		hanron_hanron.png#done
 		jyouken_jyouken.png
 			勝利条件 = Win Conditions
 			ボーナス条件 = Bonus Conditions
@@ -498,59 +509,59 @@ work_NSBMD
 		titletouch_titletouch.png
 			DEATHNOTEをタッチ = Tap the Death Note.
 	name
-		name000a_name00a.png
+		name000a_name00a.png#done
 			月 = Light
-		name00b_name00b.png
+		name00b_name00b.png#done
 			ライト = Light
-		name001a_name01a.png
+		name001a_name01a.png#done
 			竜崎 = Ryuzaki
-		name002a_name02a.png
+		name002a_name02a.png#done
 			海砂 = Misa
-		name003a_name03a.png
+		name003a_name03a.png#done
 			総一郎 = Soichiro
-		name03b_name03b.png
+		name03b_name03b.png#done
 			社長 = Chief
-		name004a_name04a.png
+		name004a_name04a.png#done
 			松田 = Matsuda
-		name04b_name04b.png
+		name04b_name04b.png#done
 			松井 = Matsui
-		name005a_name05a.png
+		name005a_name05a.png#done
 			模木 = Mogi
-		name05b_name05b.png
+		name05b_name05b.png#done
 			模地 = Moji
-		name006a_name06a.png
+		name006a_name06a.png#done
 			ナオミ = Naomi
-		name06b_name06b.png
+		name06b_name06b.png#done
 			間木 = Maki
-		name007a_name07a.png
+		name007a_name07a.png#done
 			粧裕 = Sayu
-		name008a_name08a.png
+		name008a_name08a.png#done
 			相沢 = Aizawa
-		name009a_name09a.png
+		name009a_name09a.png#done
 			レイ = Raye
-		name010a_name10a.png
+		name010a_name10a.png#done
 			ワタリ = Watari
-		name10b_name10b.png
+		name10b_name10b.png#done
 			ウオレス = Wallace
-		name011a_name11a.png
+		name011a_name11a.png#done
 			火口 = Higuchi
-		name012a_name12a.png
+		name012a_name12a.png#done
 			奈南川 = Namikawa
-		name013a_name13a.png
+		name013a_name13a.png#done
 			尾々井 = Ooi
-		name014a_name00a.png
+		name014a_name00a.png#done
 			月 = Light
-		name015a_name15a.png
+		name015a_name15a.png#done
 			ニア = Near
-		name016a_name16a.png
+		name016a_name16a.png#done
 			メロ = Mello
-		name017a_name17a.png
+		name017a_name17a.png#done
 			魅上 = Mikami
-		name018a_name18a.png
+		name018a_name18a.png#done
 			高田 = Takada
 	opening
-		op032u_op032u.png
-		op060u_op060u.png
+		op032u_op032u.png#done
+		op060u_op060u.png#done
 		optitle4a_optitle4a.png
 	story
 		chapt01a_chapt01a.png
