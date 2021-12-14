@@ -284,178 +284,142 @@ work_NSBMD
 			キラの｜裁き = Kira's Judgement
 		douchou_douchou.png#Phantom
 		etut00k_etut00k.png
-			キラ役の使命はLへの裁き
-			信頼度を最大にした相手から｜Lに関する情報が入手できる
-			Lが誰なのか特定できたら・・・
-			以下の人物はLの務いあり
-			・全部の信頼度をまんべんなく上げる者
-			・こちらの疑惑度をしつこく上げてくる者
+			キラ役の使命はLへの裁き = Kira's objective is to judge L.
+			信頼度を最大にした相手から｜Lに関する情報が入手できる = Information relating to L can be obtained by raising Trust to its max with another player.
+			Lが誰なのか特定できたら・・・ = If you can identify L...
+			以下の人物はLの務いあり = Common tactics employed by L
+			・全部の信頼度をまんべんなく上げる者 = Raising everyone's Trust
+			・こちらの疑惑度をしつこく上げてくる者 = Raising a single person's Doubt
 		etut00l_etut00l.png
-			L役の使命はキラの検挙
-			Lは　投票の後に｜誰が一人を「調査」できる｜疑わしい人物から調べろ
+			L役の使命はキラの検挙 = L's objective is to arrest Kira
+			Lは　投票の後に｜誰が一人を「調査」できる｜疑わしい人物から調べろ = L can Investigate one person after each voting phase.
 			この人を調査します #find original screen
-			はい　　いいえ
-			月くんを｜調査しましょうか
-			キラを見つけたら｜疑惑度を上げて検挙
-			以下の人物はキラの疑いあり
-			・他人の疑惑度を見境なく上げる者
-			・誰かの信頼度を最大にした者
+			キラを見つけたら｜疑惑度を上げて検挙 = Raise Kira's doubt to lead to an arrest.
+			以下の人物はキラの疑いあり = Common tactics employed by Kira.
+			・他人の疑惑度を見境なく上げる者 = Raising Doubt indiscriminately
+			・誰かの信頼度を最大にした者 = Maximizing trust with a single person
 		etut01k_etut01k.png
-			裁きは慎重に遂行せよ
-			Lではない人物を裁くと
-			発言力の最大値が大幅に減少してしまう
-			ノートを使わず　Lを検挙に導いて勝つ方が安全
-			キラ崇拝者を利用しろ
-			捜査員の中に一人だけ潜む崇拝者は
-			キラが誰か最初から知っていて
-			キラの疑惑度を下げようとする
-			崇拝者を見つけたら　味方として温存せよ
+			裁きは慎重に遂行せよ = Be careful when casting Judgement.
+			Lではない人物を裁くと|発言力の最大値が大幅に減少してしまう = Judging a person who is not L will greatly reduce your Max Influence.
+			ノートを使わず　Lを検挙に導いて勝つ方が安全 = It is safer to have L arrested without using the Death Note.
+			キラ崇拝者を利用しろ = Take advantage of Kira's followers.
+			捜査員の中に一人だけ潜む崇拝者は|キラが誰か最初から知っていて|キラの疑惑度を下げようとする|崇拝者を見つけたら　味方として温存せよ = A single follower lurks among the investigators who will know Kira's identity from the start. They will attempt to reduce Kira's Doubt. If you find the follower, guard them as an ally.
 		etut01l_etut01l.png
-			誤認逮捕を回避せよ
-			キラではない人物を検挙すると
-			発言力の最大値が減少してしまう
-			むやみに他人の疑惑度を上げるのは禁物
-			キラ崇拝者をマークしろ
-			捜査員の中に一人だけ潜む崇拝者は
-			キラが誰か最初から知っていて
-			キラの疑惑度を下げようとする
-			崇拝者を見つけたら　その行動に注意せよ
+			誤認逮捕を回避せよ = Avoid mistaken arrests.
+			キラではない人物を検挙すると|発言力の最大値が減少してしまう = If a person who is not Kira is arrested, your Max Influence will decrease.
+			むやみに他人の疑惑度を上げるのは禁物 = Don't raise the Doubt of others unnecessarily.
+			キラ崇拝者をマークしろ = Make note of Kira's followers.
+			捜査員の中に一人だけ潜む崇拝者は|キラが誰か最初から知っていて|キラの疑惑度を下げようとする|崇拝者を見つけたら　その行動に注意せよ = A single follower lurks among the investigators who will know Kira's identity from the start. They will attempt to reduce Kira's Doubt. If you find the follower, be careful of their actions.
 		etut10a_etut10a.png
-			捜査員
-			信頼度ゲージ
-			疑惑マーク
-			ふきだし
-			プレイヤー
-			疑惑 ↑↑
-			疑惑度ゲージ
-			残り発言力
-			発言力｜41/100
-			疑惑度
+			捜査員 = Investigators
+			信頼度ゲージ = Trust Gauge
+			疑惑マーク = Doubt Marker
+			ふきだし = Speech Bubbles
+			プレイヤー = Player
+			疑惑 ↑↑ = Doubt ↑↑
+			疑惑度ゲージ = Doubt Gauge
+			残り発言力 = Current Influence
+			発言力｜41/100 = Influence
+			疑惑度 = Doubt
 			#find play screen for background
 		etut11a_etut11a.png
-			捜査員の顔アイコンに｜ふきだしを選んで発言
-			相手の信頼度・疑惑度が｜発言の効果で変動
-			効果に応じて｜発言力を消費する
-			発言力｜75/100
-			発言最大値は１９以下にはなりません
-			ふきだしの基本的な使い方
-			・怪しい者の疑惑度を上げる
-			・味方にしたい者の信頼度を上げる
+			捜査員の顔アイコンに｜ふきだしを選んで発言 = Slide a speech bubble to the desired investigator's icon.
+			相手の信頼度・疑惑度が｜発言の効果で変動 = The argument will determine the change in Trust and Doubt.
+			効果に応じて｜発言力を消費する = Influence will be consumed according to the effect.
+			発言力｜75/100 = Influence
+			発言最大値は１９以下にはなりません = Max Influence cannot fall below 20.
+			ふきだしの基本的な使い方 = An Argument's basic effects
+			・怪しい者の疑惑度を上げる = Raise the Doubt of a suspicious person
+			・味方にしたい者の信頼度を上げる = Increase the Trust with a potential ally
 		etut12a_etut12a.png
-			必殺
-			・必殺発言を使って４つの効果と｜キャラ固有の特殊効果を発揮
-			調査−２０
-			反論−２０
-			・有利な発言は同調で後押し
-			・不利な発言は反論ではね返す
-			相手が反論を返してきたら
-			対抗発言で言い負かす
-			（ただし発言力を大量消費）
-			パス
-			・発言をパスして発言力を温存
-			ただし、沈黙は疑いを招く・・・
+			必殺 = Stunning Argument
+			・必殺発言を使って４つの効果と｜キャラ固有の特殊効果を発揮 = Activate a Stunning Argument for four special effects or an effect unique to each character.
+			調査−２０ = Agree
+			反論−２０ = Counter
+			・有利な発言は同調で後押し = Agree to boost a remark.
+			・不利な発言は反論ではね返す = Counter to reverse a remark.
+			相手が反論を返してきたら|対抗発言で言い負かす = If the opponent returns with a Counter of their own, defeat them in a Debate.
+			（ただし発言力を大量消費） = (Consumes large amount of Influence)
+			パス = Pass
+			・発言をパスして発言力を温存 = Pass to preserve Influence.
+			ただし、沈黙は疑いを招く・・・ = However, silence raises suspicion.
 		etut13a_etut13a.png
-			投票には要注意
-			疑惑度が上がって　疑惑マークがつくと
-			ターン終了時の投票でキラとみなされ
-			検挙＝ゲームオーバー
-			疑惑マークがついてしまったら・・・
-			・自分の疑惑度を下げる発言に同調
-			・信頼度を上げると投票を避けられる
-			・他人の疑惑度を上げると票が割れる
-			次の投票までが勝負！
+			投票には要注意 = Be cautious of voting.
+			疑惑度が上がって　疑惑マークがつくと|ターン終了時の投票でキラとみなされ = Doubt Markers are attached above a certain threshold and may lead to an arrest at the end of the round.
+			検挙＝ゲームオーバー = Get arrested, and it's game over.
+			疑惑マークがついてしまったら・・・ = What to do when Doubt Markers are attached.
+			・自分の疑惑度を下げる発言に同調 = Agree with remarks that lower your Doubt
+			・信頼度を上げると投票を避けられる = Raise Trust to receive fewer votes
+			・他人の疑惑度を上げると票が割れる = Raise another player's Doubt to tie votes
+			次の投票までが勝負！ = Every vote could be the last!
 		etut14a_etut14a.png
-			・疑惑度を上げるふきだし
-			怪しい者の疑惑度を上げる
-			・疑惑度だけを上げるふきだし
-			デメリットがない分
-			消費発言力が多い
-			・信頼度を上げるふきだし
-			味方にしたい者の信頼度を
-			上げる
+			・疑惑度を上げるふきだし|怪しい者の疑惑度を上げる = Raise Doubt and lower Trust
+			・疑惑度だけを上げるふきだし = Raise Doubt
+			デメリットがない分|消費発言力が多い = No negative effect|Consume more Influence
+			・信頼度を上げるふきだし|味方にしたい者の信頼度を|上げる = Raise Trust to create potential allies
 		etut15a_etut15a.png
-			キラの勝利条件
-			・「キラの裁き」でLを裁いた
-			・投票の結果Lを検挙した
-			・キラとLの２人だけになった
-			Lの勝利条件
-			・投票の結果キラを検挙した
+			キラの勝利条件 = Kira's win conditions
+			・「キラの裁き」でLを裁いた = L judged by Kira
+			・投票の結果Lを検挙した = L arrested after vote
+			・キラとLの２人だけになった = Only L and Kira remain
+			Lの勝利条件 = L's win conditions
+			・投票の結果キラを検挙した = Kira arrested after vote
 		getapple_getapple.png
 			ボーナス条件達成 = Bonus conditions met
 		giwaku2a_giwaku2a.png#Phantom
 		hanron_hanron.png#Phantom
 		jyouken_jyouken.png
-			勝利条件
-			ボーナス条件
+			勝利条件 = Win Conditions
+			ボーナス条件 = Bonus Conditions
 		kaishi0a_kaishi0a.png #kaishi0 and kaishi1 go together
-			開
+			開 #not found
 		kaishi1a_kaishi1a.png
-			始
+			始 #not found
 		req01a_req01a.png
-			勝利条件 #repeated through req
-			役職『キラ』で勝利する #repeated through req, can be L or Kira in parentheses
-			ボーナス条件 #repeated through req
-			３ターン以内にクリア
-			月
+			勝利条件 = Win Conditions#repeated through req
+			役職『キラ』で勝利する = Win as Kira/L.#repeated through req, can be L or Kira in parentheses
+			ボーナス条件 = Bonus Conditions#repeated through req
+			３ターン以内にクリア = Clear within 3 rounds.
 		req02a_req02a.png
-			松田の疑惑度が｜０の状能でクリア
-			竜崎
+			松田の疑惑度が｜０の状能でクリア = Clear with Matsuda's Doubt at 0.
 		req03a_req03a.png
-			Lを１回目のキラパートで｜裁いてクリア
-			レイ
+			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.#needs testing to confirm
 		req04a_req04a.png
-			キラを１回目の投票パートで｜検挙してクリア
-			ナオミ			
+			キラを１回目の投票パートで｜検挙してクリア = Clear by having Kira arrested after the first voting phase.
 		req05a_req05a.png
-			相沢と松田からの｜信頼度が　それぞれ｜１００の状態でクリア
-			総一郎
+			相沢と松田からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Aizawa and Matsuda's Trust at 100.
 		req06a_req06a.png
-			Lを１回目のキラパートで裁いてクリア
-			月
+			Lを１回目のキラパートで裁いてクリア = Clear by judging L at the end of the first round.#needs testing
 		req07a_req07a.png
-			粧裕と総一郎からの｜信頼度が　それぞれ｜１００の状態でクリア
-			海砂
+			粧裕と総一郎からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Sayu and Soichiro's Trust at 100.
 		req08a_req08a.png
-			海砂と月の疑惑度が｜１００状態でクリア
-			高田
+			海砂と月の疑惑度が｜１００状態でクリア = Clear with Misa and Light's Doubt at 100.
 		req09a_req09a.png
-			役職「キラ」で自分を検挙させる
-			３回目の投票までに｜検挙される
-			月
+			役職「キラ」で自分を検挙させる = Have yourself arrested as Kira.
+			３回目の投票までに｜検挙される = Get arrested by the end of the third vote.
 		req10a_req10a.png
-			総一郎からの信頼度が｜１００の状態でクリア
-			竜崎
+			総一郎からの信頼度が｜１００の状態でクリア = Clear with Soichiro's Trust at 100.
 		req11a_req11a.png
-			自分の疑惑度が｜０の状態でクリア
-			松田
+			自分の疑惑度が｜０の状態でクリア = Clear with your own Doubt at 0.
 		req12a_req12a.png
-			疑惑マークを｜２個つけられた事が｜１度もない状態でクリア
-			海砂
+			疑惑マークを｜２個つけられた事が｜１度もない状態でクリア = Clear without ever having two Doubt Markers.
 		req13a_req13a.png
-			火口・奈南川・尾々井からの｜信頼度がそれぞれ５０を｜下回らない状態でクリア
-			ワタリ
+			火口・奈南川・尾々井からの｜信頼度がそれぞれ５０を｜下回らない状態でクリア = Clear without Higuchi, Namikawa, and Ooi's Trust falling below 50.
 		req14a_req14a.png
-			役職「キラ」で｜火口の信頼度が１００の｜状態でクリア
-			火口の疑惑度が｜０の状態でクリア
-			海砂
+			役職「キラ」で｜火口の信頼度が１００の｜状態でクリア = Clear as Kira with Higuchi's Trust at 100.
+			火口の疑惑度が｜０の状態でクリア = Clear with Higuchi's Doubt at 0.
 		req15a_req15a.png
-			全員からの信頼度が｜５０を下回らない｜状態でクリア
-			松田
+			全員からの信頼度が｜５０を下回らない｜状態でクリア = Clear without anybody's Trust falling below 50.
 		req16a_req16a.png
-			キラを｜１回目の投票パートで｜検挙してクリア
-			月
+			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
 		req17a_req17a.png
-			崇拝者を｜検挙した状態でクリア
-			竜崎
+			崇拝者を｜検挙した状態でクリア = Clear after first arresting Kira's follower.
 		req18a_req18a.png
-			Lを１回目のキラパートで｜裁いてクリア
-			月
+			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.#needs testing
 		req19a_req19a.png
-			崇拝者が検挙｜されない状態でクリア
-			月
+			崇拝者が検挙｜されない状態でクリア = Clear without arresting Kira's follower.
 		req20a_req20a.png
-			キラを｜１回目の投票パートで｜検挙してクリア
-			竜崎
+			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
 		taikou1a_taikou1a.png#leave for now
 			対抗発言に勝利！
 		taikou2a_taikou2a.png#leave for now
@@ -466,73 +430,73 @@ work_NSBMD
 			VAP・マッドハウス・NTV・D.N.ドリームパートナーズ
 	face
 		faceall_faceall.png
-			全員
+			全員 = All
 	menu
 		csele00a_csele00a.png
-			専用必殺発言効果 #repeated through csele
-			自分の疑惑度を０にする
+			専用必殺発言効果 = Unique Stunning Argument Effect#repeated through csele
+			自分の疑惑度を０にする = Set your own Doubt to 0.
 		csele01a_csele01a.png
-			全部の疑惑度を｜一律５０にする
+			全部の疑惑度を｜一律５０にする = Set everyone's Doubt to 50.
 		csele02a_csele02a.png
-			指定した人物の｜自分に対する信頼度を｜１００にする
+			指定した人物の｜自分に対する信頼度を｜１００にする = Set the selected person's Trust to 100.
 		csele03a_csele03a.png
-			全員の｜自分に対する信頼度を｜一律６０にする
+			全員の｜自分に対する信頼度を｜一律６０にする = Set everyone's Trust to 60.
 		csele04a_csele04a.png
-			全員の発言力を｜最大１０奪って｜自分の発言力に加える
+			全員の発言力を｜最大１０奪って｜自分の発言力に加える = Take 10 Influence from everyone.
 		csele05a_csele05a.png
-			全員の発言力最大値を｜１０減らす
+			全員の発言力最大値を｜１０減らす = Reduce everyone's Max Influence by 10.
 		csele06a_csele06a.png
-			指定した人物と自分の｜疑惑度の値を取り替える
+			指定した人物と自分の｜疑惑度の値を取り替える = Swap Doubt with the selected person.
 		csele07a_csele07a.png
-			全員の発言力を｜一律４０にする
+			全員の発言力を｜一律４０にする = Set everyone's Influence to 40.
 		csele08a_csele08a.png
-			指定した人物の自分に｜対する信頼度を１００にして｜さらに疑惑度を０にする
+			指定した人物の自分に｜対する信頼度を１００にして｜さらに疑惑度を０にする = Set the selected person's Trust to 100 and Doubt to 0.
 		csele09a_csele09a.png
-			発言力の最大値を｜１０増やし　さらに｜最大値まで回復する
+			発言力の最大値を｜１０増やし　さらに｜最大値まで回復する = Increase Max Influence by 10 and fully replenish Influence.
 		csele10a_csele10a.png
-			全員の疑惑度を｜一律２０減らす
+			全員の疑惑度を｜一律２０減らす = Reduce everyone's Doubt by 20.
 		csele11a_csele11a.png
-			自分の発言力の最大値を｜４０増やす
+			自分の発言力の最大値を｜４０増やす = Increase Max Influence by 40.
 		csele12a_csele12a.png
-			自分以外の　疑惑度が｜一番高い人物の｜疑惑度を１００にする
+			自分以外の　疑惑度が｜一番高い人物の｜疑惑度を１００にする = Set the Doubt of the most suspicious person other than yourself to 100.
 		csele13a_csele13a.png
-			全員の疑惑度を｜一律２０増やす
+			全員の疑惑度を｜一律２０増やす = Increase everyone's Doubt by 20.
 		csele14a_csele14a.png
-			指定した人物の｜発言力最大値を３０減らす
+			指定した人物の｜発言力最大値を３０減らす = Reduce the selected person's Max Influence by 30.
 		csele15a_csele15a.png
-			指定した人物の｜発言力を０にする
+			指定した人物の｜発言力を０にする = Set the selected person's Influence to 0.
 		csele16a_csele16a.png
-			指定した人物の｜自分に対する信頼度を｜１００にする　同時に｜自分以外に対しては｜全て０にする
+			指定した人物の｜自分に対する信頼度を｜１００にする　同時に｜自分以外に対しては｜全て０にする = Set the selected person's Trust to 100. Set everyone else's Trust to 0.
 		csele17a_csele17a.png
-			疑惑マークがついている｜全員から　疑惑マークを｜１つずつ消す
+			疑惑マークがついている｜全員から　疑惑マークを｜１つずつ消す = Remove one Doubt Marker from every person who has one.
 		csele18a_csele18a.png
-			指定した人物の｜発言力を４０減らす
+			指定した人物の｜発言力を４０減らす = Reduces the selected person's Influence by 40.
 		exp_extra_exp_extra.png
-			エキストラ
-			キラゲーム中の｜グラフィックの閲覧や｜音楽の再生を行います
+			エキストラ = Extras
+			キラゲーム中の｜グラフィックの閲覧や｜音楽の再生を行います = View graphics and listen to music from the Kira Game.
 		exp_guide_exp_guide.png
-			ゲーム解説
-			キラゲームを｜プレイする上での｜テクニックを紹介します
+			ゲーム解説 = Guide
+			キラゲームを｜プレイする上での｜テクニックを紹介します = Review techniques for playing the Kira Game.
 		exp_mselect_exp_mselect.png
-			モード｜セレクト
-			６つのモードを｜選択します
+			モード｜セレクト = Mode Select
+			６つのモードを｜選択します = Select from six available modes.
 		exp_option_exp_option.png
-			オプション
-			ゲーム中の音量設定と｜カード内の記録を｜初期状態に戻します
+			オプション = Options
+			ゲーム中の音量設定と｜カード内の記録を｜初期状態に戻します = Set in-game volume and reset save data information.
 		exp_playmemo_exp_playmemo.png
-			プレイメモ
-			キラゲームを｜プレイする上での｜テクニックを紹介します
+			プレイメモ = Play Memo
+			キラゲームを｜プレイする上での｜テクニックを紹介します = Review techniques for playing the Kira Game.
 		exp_single_exp_single.png
-			シングル｜モード
-			CPUと　キラゲームで｜対戦を行います
+			シングル｜モード = Solo
+			CPUと　キラゲームで｜対戦を行います = Play the Kira Game against the CPU.
 		exp_story_exp_story.png
-			ストーリー｜モード
-			キラゲームを主軸に｜ドラマチックなストーリーが｜展開します
+			ストーリー｜モード = Story Mode
+			キラゲームを主軸に｜ドラマチックなストーリーが｜展開します = Follow the Kira Game's dramatic story as it unfolds.
 		exp_vs_exp_vs.png
-			対戦モード
-			DS同士を通信でつなぎ｜キラゲームで｜対戦を行います
+			対戦モード = VS Mode
+			DS同士を通信でつなぎ｜キラゲームで｜対戦を行います = Battle your friends in the Kira Game using the DS's wireless communication.
 		titletouch_titletouch.png
-			DEATHNOTEをタッチ
+			DEATHNOTEをタッチ = Tap the Death Note.
 	name
 		name000a_name00a.png
 			月 = Light
@@ -607,9 +571,9 @@ work_NSBMD
 		epbg11a_epbg11a.png
 			episode 11-月 = Light
 		evt004a_evt004a.png
-			キラ特集
-			今回は絶対真実
-			キラの正体！！
+			キラ特集 = Who is Kira?
+			今回は絶対真実 = The truth revealed!
+			キラの正体！！ = Kira's identity!
 		tut00a_tut00a.png
 		tut03a_bg030a.png
 		tut04a_bg010a.png
