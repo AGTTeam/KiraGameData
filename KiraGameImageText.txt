@@ -6,16 +6,17 @@ work_IMG
 			脱落 = Out
 	kira_game
 		continue.png
-			ゲームを｜やり直す
-			ゲームを｜終わる
-			続けて｜プレイ
-			キャラクターと｜ルールを｜変えてプレイ
-			画面タッチで次に進みます
-			相手が選択中です
-			しばらくお待ちください・・・・・・
+			ゲームを｜やり直す = Restart game
+			ゲームを｜終わる = End game
+			続けて｜プレイ = Continue game
+			キャラクターと｜ルールを｜変えてプレイ = Play with new rules and characters
+			画面タッチで次に進みます = Tap screen to continue.
+			相手が選択中です = Players selecting...
+			しばらくお待ちください・・・・・・ = Please wait.
 		deathnote.png
-			「L」以外の人を裁くと｜発言力の最大値が半分になります｜デスノートをタッチすると、デスノートを使います = Judging someone who is not L will halve your maximum influence. Tap the Death Note to use it.
-			戻る = Return
+			「L」以外の人を裁くと｜発言力の最大値が半分になります = Judging someone who is not L will halve your maximum influence.
+			デスノートをタッチすると、デスノートを使います = Tap the Death Note to use it.
+			戻る = Back
 		face.png#Phantom
 			脱落
 		fukidasi.png#Phantom
@@ -33,65 +34,54 @@ work_IMG
 			疑惑全↓=Doubt ↓ All
 			最大値↑=Max ↑
 		function.png
-			機能
-			キラゲーム｜を｜やり直す
-			タイトルへ｜戻る
-			チュートリアル
-			戻る
-			接続画面｜へ｜戻る
+			機能 = Function
+			キラゲーム｜を｜やり直す = Restart Kira Game
+			タイトルへ｜戻る = Return to title
+			チュートリアル = Tutorial
+			接続画面｜へ｜戻る = Return to connection screen
 		information.png
-			はい
-			いいえ
-			キャンセル
+			はい = Yes
+			いいえ = No
+			キャンセル = Cancel
 		l_kira.png
-			決定
-			調査する人にスライドさせて下さい
-			タッチで情報を確認します
-			この人を調査します
-			ノートを使いますか？
-			名前を書く人にスライドさせて下さい
-			タッチで情報を確認します
-			この人でいいですか？
-			相手が選択中です
-			しばらくお待ちください・・・・・・
-			投票画面へ
+			決定 = Select
+			調査する人にスライドさせて下さい = Select a person to investigate.
+			タッチで情報を確認します = Tap a character for more info.
+			この人を調査します = Investigate selected character?
+			ノートを使いますか？ = Use Death Note?
+			名前を書く人にスライドさせて下さい = Select a person to use the Death Note on.
+			この人でいいですか？ = Write the name of selected character?
+			投票画面へ = To Voting Screen
 		playguide.png
 			ゲーム解説 = Guide
 			チュートリアル = Tutorial
 			チュートリアル = Tutorial
 			プレイメモ = Play Memos
-			戻る = Return
 		touhyou.png
-			決定
-			０ー７票
-			投票する人にスライドさせて下さい
-			タッチで情報を確認します
-			この人に投票します
-			投票結果
-			全員が投票するまで
-			お待ちください・・・・・・
-			投票が同数になりました
-			再投票をしてください
-			相手が選択中です
-			しばらくお待ちください・・・・・・
+			決定 = Select
+			０-７票 = Vote
+			投票する人にスライドさせて下さい = Select a person to vote out.
+			タッチで情報を確認します = Tap a character for more info.
+			この人に投票します = Vote selected character?
+			投票結果 = Voting Results
+			全員が投票するまで = Players voting...
+			お待ちください・・・・・・ = Please wait.
+			投票が同数になりました = The number of votes is the same.
+			再投票をしてください = Please vote again.
 		winlose.png
-			勝利者
-			敗北者
-			キラ検挙による勝利
-			キラの裁きによる敗北
-			Lがされたため敗北
-			勝利者
-			敗北者
-			キラの裁きによる勝利
-			Lに検挙されたため敗北
-			Lが検挙されたため勝利
+			勝利者 = Victory
+			敗北者 = Defeat
+			キラ検挙による勝利 = Kira has been arrested.
+			キラの裁きによる敗北 = L has been judged by Kira.
+			Lがされたため敗北 = Only L and Kira remain.
+			Lに検挙されたため敗北 = Kira has been arrested.
+			Lが検挙されたため勝利 = L has been arrested.
 	menu
 		0_title.png
 			キラゲーム
 		ex_inspect.png
 			CG閲覧 = CG Viewer
 			必殺演出｜閲覧
-			戻る = Return
 			月 = Light
 			竜崎 = Ryuzaki
 			海砂 = Misa
@@ -110,8 +100,8 @@ work_IMG
 			メロ = Mello
 			魅上 = Mikami
 			高田 = Takada
-			選択画面に戻る
-			イベントCG
+			選択画面に戻る = Return to selection screen
+			イベントCG = Event CG
 		extra.png
 			エキストラ = Extras
 			サウンド｜テスト = Sound Test
@@ -120,20 +110,18 @@ work_IMG
 			必殺演出｜閲覧
 			音楽 = Music
 			効果音 = SFX
-			戻る = Return
 		face.png#Phantom
 		information.png
 		information2.png
-			話をスキップする
-			次の説明を聞く
-			もう一度同じ説明を聞く
+			話をスキップする = Skip dialogue
+			次の説明を聞く = Next explanation
+			もう一度同じ説明を聞く = Repeat explanation
 		modeselect.png
 			モード｜セレクト = Mode Select
 			シングル｜モード = Solo
 			対戦｜モード = VS
 			エキストラ = Extras
 			ゲーム｜解説 = Guide
-			戻る = Return
 			オプション = Options
 		modeselect2.png
 			ストーリー｜モード = Story Mode
@@ -141,12 +129,10 @@ work_IMG
 			オプション = Options
 			音楽音量 = Music Volume
 			効果音音量 = SFX Volume
-			戻る = Return
 			全ての記録を消す = Erase save data
 		playguide.png
 		playmemo.png
 			プレイメモ = Play Memo
-			戻る = Back
 			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
 			プレイメモ０２｜「Lの見分け方」 = Play Memo 02|Finding L
 			プレイメモ０３｜「アシストメッセージ」 = Play Memo 03|Helpful Messages
@@ -160,52 +146,38 @@ work_IMG
 			プレイメモ１１｜「対戦モードのコツ」= Play Memo 11|Tips for VS Mode
 			プレイメモ１２｜「プレイメモを越えろ」= Play Memo 12|Surpass the Guide!
 		single.png#Phantom
-			シングル｜モード
-			開始
-			プレイキャラ｜選択
-			希望役職｜選択
-			メンバー｜選択
-			ルールの｜設定
-			あと　人
-			戻る
-			ランダム
-			発言力初期値設定
-			発言力回復設定
-			投票過半数設定
-			サポート表示設定
-			あり
-			なし
+			シングル｜モード = Solo
+			選べません = Unavailable
+			再開｜する = Resume Game
+			開始 = New Game
+			プレイキャラ｜選択 = Character Select
+			希望役職｜選択 = Role Select
+			メンバー｜選択 = Investigator Select
+			ルールの｜設定 = Rule Select
+			あと　人 = #not found
+			ランダム = Random
+			発言力初期値設定 = Starting Influence
+			発言力回復設定 = Influence Recovery #not found
+			投票過半数設定 = Minimum Vote
+			サポート表示設定 = Hint Messages
+			あり = On
+			なし = Off
 		single2.png#Phantom
-			ルールの｜設定
-			戻る
-			発言力初期値設定
-			発言回数設定
-			投票過半数設定
-			サポート表示設定
-			あり
-			なし
-			発言力初期値設定
-			キラゲーム開始時の発言力の設定です
-			発言回数設定
-			１ターンで発言できる回数の設定です
-			投票過半数設定
-			「なし」を選ぶと過半数以下でも
-			得票の多い人が検挙されます
-			サポート表示設定
-			「なし」を選ぶとLとキラのサポートセリフ
-			を非表示にします
-			１ー３回
+			発言回数設定 = Number of Turns
+			キラゲーム開始時の発言力の設定です = Sets players' Influence at the start of the game.
+			１ターンで発言できる回数の設定です = Sets the number of turns per round.
+			「なし」を選ぶと過半数以下でも得票の多い人が検挙されます = While "Off" the player with the most votes will be arrested even if the majority is below half.
+			「なし」を選ぶとLとキラのサポートセリフを非表示にします = While "Off" hint messages will be hidden.
+			１-３回 = 1   2   3 #just remove the kanji and center number
 		story_intro.png
-			ストーリー｜モード
-			スキップ
-			画面タッチで進みます
-			画面タッチでキラゲーム開始
-			タイトルに戻る
+			ストーリー｜モード = Story Mode
+			スキップ = Skip
+			画面タッチで進みます = Tap screen to continue.
+			画面タッチでキラゲーム開始 = Tap screen to start Kira Game.
+			タイトルに戻る = Return to title
 		story_restart.png
-			ストーリー｜モード
-			最初｜から
-			戻る
-			ストーリー｜セレクト
+			最初｜から = New Game
+			ストーリー｜セレクト = Chapter Select
 			第１話｜「開始」= Chapter 1|Rebirth
 			第２話｜「甘党」= Chapter 2|Sweet Tooth
 			第３話｜「接触」= Chapter 3|Encounter
@@ -219,127 +191,98 @@ work_IMG
 			第１１話　月｜「神曲」= Chapter 11 Light|Divinity
 			第１１話　竜崎｜「正義」= Chapter 11 Ryuzaki|Justice
 		title_under.png
-			をタッチ
+			DEATH NOTEをタッチ = Tap Death Note
 		tuto_face.png#Phantom
 			脱落
 		tuto_game.png #reference fukidasi.png Phantom
 		tuto2_intro.png
-			画面タッチで進みます
 		tutorial.png
-			プロローグ
-			画面タッチでメッセージを進めます
-			スキップ
+			プロローグ = Prologue
+			画面タッチでメッセージを進めます = Tap screen to continue. #not found
 		understaff.png
 		vsmode.png
-			対戦モード
-			募集
-			参加｜する
-			募集中
-			対戦相手の｜確定
-			親機
-			参加者
-			対戦開始
-			切断する
-			戻る
-			参加する
+			対戦モード = VS Mode
+			募集 = Host
+			参加｜する = Join
+			募集中 = Hosting
+			対戦相手の｜確定 = Player Confirmation
+			親機 = Host
+			参加者 = Player
+			対戦開始 = Start Game
+			切断する = Disconnect
+			参加する = Joining
 		vsmode2.png
-			戻る
-			希望役職｜選択
-			プレイキャラ｜選択
-			ランダム
 		vsmode3.png
-			戻る
-			ルールの｜設定
-			メンバー人数の｜選択
-			発言力初期値設定
-			発言回数設定
-			投票過半数設定
-			サポート投票設定
-			あり
-			なし
-			３ー６人
-			あり
-			なし
-			発言力初期値設定
-			キラゲーム開始時の発言力の設定です
-			発言回数設定
-			１ターンで発言できる回数の設定です
-			投票過半数設定
-			「なし」を選ぶと過半数以下でも
-			得票の多い人が検挙されます
-			サポート表示設定
-			「なし」を選ぶとLとキラのサポートセリフ
-			を非表示にします
-			１ー３回
+			メンバー人数の｜選択 = Investigator Select
+			サポート投票設定 = Hint Messages
+			３-６人 = 3  4  5  6 #Just remove kanji and center number
 	opening
 		op032d.png
-			「僕が」
+			「僕が」 = I AM...
 		op060d.png
-			正義だ！！
+			正義だ！！ = JUSTICE!
 work_NSBMD
 	balloon
 		balh00a_balh00a.png
-			この僕が｜そんな人間に｜見えるのか？
+			この僕が｜そんな人間に｜見えるのか？ = Do I seem like that kind of person to you?#Light
 		balh01a_balh01a.png
-			では・・・｜全員灰色で・・・
+			では・・・｜全員灰色で・・・ = He who strikes first, wins.#Ryuzaki
 		balh02a_balh02a.png
-			ミサの事｜信用してね
+			ミサの事｜信用してね = I'll work hard to make you love me.#Misa
 		balh03a_balh03a.png
-			私は絶対降りない｜悪に屈しては｜ならない
+			私は絶対降りない｜悪に屈しては｜ならない = I will not succumb to evil.#Soichiro
 		balh04a_balh04a.png
-			僕にも言わせて｜下さいよ
+			僕にも言わせて｜下さいよ = I want to be useful too.#Matsuda
 		balh05a_balh05a.png
-			今は何も｜行っては駄目だ・・・
+			今は何も｜言っては駄目だ・・・ = There's nothing that needs to be said.#Mogi
 		balh06a_balh06a.png
-			私の考えが正しければ｜これで｜全てうまくいく・・・
+			私の考えが正しければ｜これで｜全てうまくいく・・・ = If my analysis so far is correct, this case will be solved in no time.#Naomi
 		balh07a_balh07a.png
-			みんな　もっと｜話しましょ！
+			みんな　もっと｜話しましょ！ = C'mon, you guys, let's keep talking!#Sayu
 		balh08a_balh08a.png
-			私は｜あなたを信じる
+			私は｜あなたを信じる = I trust you.#Aizawa
 		balh09a_balh09a.png
-			危険だ　やめろ｜その時は私がやる
+			危険だ　やめろ｜その時は私がやる = That's risky. If it comes to that, I'll take care of it.#Raye
 		balh10a_balh10a.png
-			少しアタマを｜冷やしたほうが｜よさそうです
+			少しアタマを｜冷やしたほうが｜よさそうです = Let's all keep a cool head.#Watari
 		balh11a_balh11a.png
-			これで俺は最強だ｜これなら｜いくらでも手がある
+			これで俺は最強だ｜これなら｜いくらでも手がある = I'm invincible. I have more than enough options now.#Higuchi
 		balh12a_balh12a.png
-			ふっ・・・皆　大体｜わかってるんじゃ｜ないか・・・
+			ふっ・・・皆　大体｜わかってるんじゃ｜ないか・・・ = Hmph. I think we're all on the same page here.#Namikawa
 		balh13a_balh13a.png
-			勝つために・・・｜誰を消すか
+			勝つために・・・｜誰を消すか = If we're to win, who should we kill?#Ooi
 		balh14a_balh14a.png
-			やはり勝つには｜先手を打つ事だ
+			やはり勝つには｜先手を打つ事だ = I'll make you trust me. And when you've told me everything I need to know, I'll kill you.#NeoLight
 		balh15a_balh15a.png
-			決着をつけます
+			決着をつけます = If you can't solve the puzzle, you're nothing but a loser.#Near
 		balh16a_balh16a.png
-			あんたは｜俺の言う事を｜聞くしかない
+			あんたは｜俺の言う事を｜聞くしかない = It's mu turn to use you.#Mello
 		balh17a_balh17a.png
-			削除
+			削除 = Delete.#Mikami
 		balh18a_balh18a.png
-			不愉快です
+			不愉快です = How unpleasant.#Takada
 	bg
 		bg006a_taikou.png
-			対抗
 		bg010a_bg010a.png
-			Lの調査
+			Lの調査 = L's Investigation
 		bg011a_bg011a.png
-			調査　結果
+			調査　結果 = Investigation Results
 		bg012a_bg012a.png
-			確定者
+			確定者 = Confirmed
 		bg020a_bg020a.png
-			KIRAの行動
+			KIRAの行動 = Kira's Action
 		bg030a_bg030a.png
-			容疑者投票
+			容疑者投票 = Suspect Vote
 		bg031a_bg031a.png
-			誰が誰を
-			検挙するべきだと
+			誰が誰を = Vote (White) Tally (Red)
+			検挙するべきだと = Who will be arrested?
 		bg040a_bg040a.png
-			検挙
+			検挙 = Arrested
 		bg042a_bg042a.png
-			脱落
+			脱落 = Out
 		bg043a_bg043a.png
-			キラの｜裁き
+			キラの｜裁き = Kira's Judgement
 		douchou_douchou.png#Phantom
-			同調
 		etut00k_etut00k.png
 			キラ役の使命はLへの裁き
 			信頼度を最大にした相手から｜Lに関する情報が入手できる
@@ -438,11 +381,9 @@ work_NSBMD
 			Lの勝利条件
 			・投票の結果キラを検挙した
 		getapple_getapple.png
-			ボーナス条件達成
+			ボーナス条件達成 = Bonus conditions met
 		giwaku2a_giwaku2a.png#Phantom
-			疑惑
 		hanron_hanron.png#Phantom
-			反論
 		jyouken_jyouken.png
 			勝利条件
 			ボーナス条件
@@ -594,103 +535,82 @@ work_NSBMD
 			DEATHNOTEをタッチ
 	name
 		name000a_name00a.png
-			月
+			月 = Light
 		name00b_name00b.png
-			ライト
+			ライト = Light
 		name001a_name01a.png
-			竜崎
+			竜崎 = Ryuzaki
 		name002a_name02a.png
-			海砂
+			海砂 = Misa
 		name003a_name03a.png
-			総一郎
+			総一郎 = Soichiro
 		name03b_name03b.png
-			社長
+			社長 = Chief
 		name004a_name04a.png
-			松田
+			松田 = Matsuda
 		name04b_name04b.png
-			松井
+			松井 = Matsui
 		name005a_name05a.png
-			模木
+			模木 = Mogi
 		name05b_name05b.png
-			模地
+			模地 = Moji
 		name006a_name06a.png
-			ナオミ
+			ナオミ = Naomi
 		name06b_name06b.png
-			間木
+			間木 = Maki
 		name007a_name07a.png
-			粧裕
+			粧裕 = Sayu
 		name008a_name08a.png
-			相沢
+			相沢 = Aizawa
 		name009a_name09a.png
-			レイ
+			レイ = Raye
 		name010a_name10a.png
-			ワタリ
+			ワタリ = Watari
 		name10b_name10b.png
-			ウオレス
+			ウオレス = Wallace
 		name011a_name11a.png
-			火口
+			火口 = Higuchi
 		name012a_name12a.png
-			奈南川
+			奈南川 = Namikawa
 		name013a_name13a.png
-			尾々井
+			尾々井 = Ooi
 		name014a_name00a.png
-			月
+			月 = Light
 		name015a_name15a.png
-			ニア
+			ニア = Near
 		name016a_name16a.png
-			メロ
+			メロ = Mello
 		name017a_name17a.png
-			魅上
+			魅上 = Mikami
 		name018a_name18a.png
-			高田
+			高田 = Takada
 	opening
 		op032u_op032u.png
-			「私が」
 		op060u_op060u.png
-			正義だ！！
 		optitle4a_optitle4a.png
 	story
 		chapt01a_chapt01a.png
-			開始
 		chapt02a_chapt02a.png
-			甘党
 		epbg00a_epbg00a.png
 		epbg01a_epbg01a.png
-			開始
 		epbg1xa_epbg1xa.png
-			正義
-			episode 11-竜崎
+			episode 11-竜崎 = Ryuzaki
 		epbg02a_epbg02a.png
-			甘党
 		epbg03a_epbg03a.png
-			接触
 		epbg04a_epbg04a.png
-			追跡
 		epbg05a_epbg05a.png
-			崩壊
 		epbg06a_epbg06a.png
-			愛情
 		epbg07a_epbg07a.png
-			監視
 		epbg08a_epbg08a.png
-			潜入
 		epbg09a_epbg09a.png
-			対面
 		epbg10a_epbg10a.png
-			終焉
 		epbg11a_epbg11a.png
-			神曲
-			episode 11-月
+			episode 11-月 = Light
 		evt004a_evt004a.png
 			キラ特集
 			今回は絶対真実
 			キラの正体！！
 		tut00a_tut00a.png
-			脱落
-			月
 		tut03a_bg030a.png
-			容疑者投票
 		tut04a_bg010a.png
-			Lの調査
 		tut05a_bg020a.png
-			KIRAの行動
