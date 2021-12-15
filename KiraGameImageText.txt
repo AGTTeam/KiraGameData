@@ -316,7 +316,7 @@ work_NSBMD
 			キラ崇拝者を利用しろ = Take advantage of Kira's followers.
 			捜査員の中に一人だけ潜む崇拝者は|キラが誰か最初から知っていて|キラの疑惑度を下げようとする|崇拝者を見つけたら　味方として温存せよ = A single follower lurks among the investigators who will know Kira's identity from the start. They will attempt to reduce Kira's Doubt. If you find the follower, guard them as an ally.
 		etut01l_etut01l.png
-			誤認逮捕を回避せよ = Avoid mistaken arrests.
+			誤認逮捕を回避せよ = Avoid false arrests.
 			キラではない人物を検挙すると|発言力の最大値が減少してしまう = If a person who is not Kira is arrested, your Max Influence will decrease.
 			むやみに他人の疑惑度を上げるのは禁物 = Don't raise the Doubt of others unnecessarily.
 			キラ崇拝者をマークしろ = Make note of Kira's followers.

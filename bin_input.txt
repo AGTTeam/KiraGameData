@@ -12,7 +12,7 @@
       初期化を実行します      =to reformat data.
 エラーが発生したぞ=An error has occurred.
 スタックのオーバーフロー=Stack overflow
-から始めます=#remove?
+から始めます= 
 第７話「監視」=Chapter 7 "Surveillance"
 第８話「潜入」=Chapter 8 "Infiltration"
 第９話「対面」=Chapter 9 "Confrontation"
@@ -25,12 +25,12 @@
 第６話「愛情」=Chapter 6 "Love"
 第４話「追跡」=Chapter 4 "Pursuit"
 第５話「崩壊」=Chapter 5 "Unraveling"
-ゲームを始めると=Starting the game will
+ゲームを始めると=Starting the selected chapter
 よろしいですか？=Continue?
-中断データが上書きされます=overwrite suspended data.
+中断データが上書きされます=will overwrite suspended data.
 警告=Warning
-記録を消去します=Erase save data.
-本当によろしいですか？=Continue?
+記録を消去します=Erasing save data.
+本当によろしいですか？=Are you sure?
 記録を消去しています=Erasing save data.
 カードを抜いたり=Do not remove the game
 電源を切ったりしないでください=or turn off the power.
@@ -291,7 +291,7 @@
 ゲームを続けますか=Continue?
 プレイ結果=Results
 崇拝者=Follower
-    ターン数  %d  =Turns %d
+    ターン数  %d  =Rounds %d
 裁かれた人数  %d人=Judged %d
 検挙した人数  %d人=Voted %d
   投票について  =Voting
@@ -304,9 +304,9 @@
    特殊な行動   =Special actions
   キラの心得２  =Kira 2
    Ｌの心得２   =L 2
-   中断します   ||よろしいですか？=Suspend game.|Continue?
+   中断します   ||よろしいですか？=Suspend game?
 キラゲームをやり直します||    よろしいですか？    =Start over.|Continue?
-セーブしてタイトルにもどります||       よろしいですか？       =Save and return to title screen.|Continue?
+セーブしてタイトルにもどります||       よろしいですか？       =Save and return to title screen?
 接続画面にもどります||  よろしいですか？  =Return to connection screen.|Continue?
 プレイメモ 01　キラの見分け方||以下の３つの行動をとった者は|キラである確率が高いと言えます||・信頼度を１００にした|・複数の人の疑惑度を上げている|・裁きの後にパスが多い=Play Memo 01 - Finding Kira||Any player acting according to the following three points is likely to be Kira.||・Raises Trust to 100|・Raises Doubt of multiple people|・Often passes after Kira's judgement
 プレイメモ 02　Ｌの見分け方||以下の３つの行動をとった者は|Ｌである確率が高いと言えます||・他人の疑惑度を下げる行動をとる|・特定の人の疑惑度を上げている|・信頼度を１００にした事がない=Play Memo 02 - Finding L||Any player acting according to the following three points is likely to be L.||・Lowers Doubt of others|・Raises doubt of a single person|・Never raises Trust to 100
@@ -320,7 +320,7 @@
 プレイメモ 06　対抗発言||対抗発言では　お互いの考えを|ぶつけ合っているので　発言内容をよく|観察すると　有力な情報を得られます|自分から対抗発言を仕掛けて　相手の|考えを引き出したり　相手に発言力を|消費させる事もテクニックの一つです=Play Memo 06 - Counter-Argument||Counter-arguments pit your thoughts against another's.|Observe the content of the arguments made to obtain valuable information.|One technique is to make counter-arguments to pull your opponent into consuming more of their Influence.
 プレイメモ 09　Ｌの勝ちパターン||崇拝者はキラの疑惑度を下げるので|特定の相手に疑惑度を下げられている|者は　キラの可能性が高いです|キラらしき人物を絞ったら　その相手の|疑惑度を上げつつ　同調・反論発言で|他の捜査員の意見を誘導しましょう=The follower will act to lower Kira's Doubt. Therefore, a player whose Doubt is repeatedly lowered by a specific person is more likely to be Kira. Once you've clued in on Kira, guide the opinions of your fellow investigators by agreeing and countering as appropriate.
 プレイメモ 11　対戦モードのコツ||対戦モードは　人間同士の一騎打ちです|つまり　コンピューターが操るキャラの|中で　浮いた行動をとっている者は|キラ（Ｌ）の可能性が高いと言えます|これを念頭に置いてプレイすると|対戦モードの勝率が上がるかも？=Play Memo 11 - Tips for VS Mode||VS Mode is a one-on-one mode between humans. In other words, any character whose actions stand out from amongst the computer characters is likely to be L or Kira. Play with this in mind to increase your chance at victory in VS Mode. 
-キラゲーム         ターン%d=Kira Game         Turn %d
+キラゲーム         ターン%d=Kira Game         Round %d
 セーブしてタイトルへ戻ります=Save and return to the title screen.
 ゲーム中のイベントＣＧが=CG Events from the game
 　　　　　イベントＣＧ=CG Events
