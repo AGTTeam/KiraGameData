@@ -18,14 +18,14 @@ work_IMG
 			デスノートをタッチすると、デスノートを使います = Tap the Death Note to use it.
 			戻る = Back
 		face.png#Phantom
-			脱落
+			脱落 = Out
 		fukidasi.png#Phantom
 			疑惑 ↑=Doubt ↑
 			信頼 ↓=Trust ↓
 			同調=Agree
 			反論=Counter
 			対抗=Argue
-			必殺！
+			必殺！=Stun
 			専用=Unique
 			決定=Vote
 			発言力回復=Influence ↑
@@ -33,12 +33,12 @@ work_IMG
 			疑惑全↑=Doubt ↑ All
 			疑惑全↓=Doubt ↓ All
 			最大値↑=Max Influence ↑
-			機能
-			発言力
-			疑惑度
+			機能=Function
+			発言力=Influence
+			疑惑度=Doubt
 			あと　秒
 			思案中… = Thinking...
-			必殺発言内容
+			必殺発言内容=#shows in the background when selecting a 必殺技
 			これでよろしいですか？
 			パス = Pass
 			画面タッチで次に進みます = Tap screen to continue.
@@ -204,7 +204,7 @@ work_IMG
 		title_under.png
 			DEATH NOTEをタッチ = Tap Death Note
 		tuto_face.png#Phantom
-			脱落
+			脱落 = Out
 		tuto_game.png #reference fukidasi.png Phantom
 		tuto2_intro.png
 		tutorial.png
@@ -379,13 +379,13 @@ work_NSBMD
 			ボーナス条件達成 = Bonus conditions met
 		giwaku2a_giwaku2a.png#done
 		hanron_hanron.png#done
-		jyouken_jyouken.png
+		jyouken_jyouken.png#done
 			勝利条件 = Win Conditions
 			ボーナス条件 = Bonus Conditions
 		kaishi0a_kaishi0a.png #kaishi0 and kaishi1 go together
-			開 #not found
+			開 #shown when starting a round of the kira game. Text should ideally be aligned to the right edge
 		kaishi1a_kaishi1a.png
-			始 #not found
+			始#Text should ideally be aligned to the left edge
 		req01a_req01a.png
 			勝利条件 = Win Conditions#repeated through req
 			役職『キラ』で勝利する = Win as Kira/L.#repeated through req, can be L or Kira in parentheses
