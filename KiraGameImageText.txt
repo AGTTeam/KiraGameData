@@ -2,7 +2,7 @@ work_IMG
 	common
 		underbg2.png
 			心臓麻痺 = Heart Attack
-		underbg3.png
+		underbg3.png#done
 			脱落 = Out
 	kira_game
 		continue.png
@@ -17,7 +17,7 @@ work_IMG
 			「L」以外の人を裁くと｜発言力の最大値が半分になります = Judging someone who is not L will halve your maximum influence.
 			デスノートをタッチすると、デスノートを使います = Tap the Death Note to use it.
 			戻る = Back
-		face.png#Phantom
+		face.png#done
 			脱落 = Out
 		fukidasi.png#Phantom
 			疑惑 ↑=Doubt ↑
@@ -54,26 +54,26 @@ work_IMG
 			はい = Yes
 			いいえ = No
 			キャンセル = Cancel
-		l_kira.png
+		l_kira.png#done
 			決定 = Select
 			調査する人にスライドさせて下さい = Select a person to investigate.
 			タッチで情報を確認します = Tap a character for more info.
-			この人を調査します = Investigate selected character?
+			この人を調査します = Investigate this character?
 			ノートを使いますか？ = Use Death Note?
 			名前を書く人にスライドさせて下さい = Select a person to use the Death Note on.
-			この人でいいですか？ = Write the name of selected character?
-			投票画面へ = To Voting Screen
+			この人でいいですか？ = Write name?
+			投票画面へ = Voting Screen
 		playguide.png
 			ゲーム解説 = Guide
 			チュートリアル = Tutorial
 			チュートリアル = Tutorial
 			プレイメモ = Play Memos
-		touhyou.png
+		touhyou.png#done
 			決定 = Select
 			０-７票 = Vote
 			投票する人にスライドさせて下さい = Select a person to vote out.
 			タッチで情報を確認します = Tap a character for more info.
-			この人に投票します = Vote selected character?
+			この人に投票します = Vote out?#or Cast vote?
 			投票結果 = Voting Results
 			全員が投票するまで = Players voting...
 			お待ちください・・・・・・ = Please wait.
@@ -121,7 +121,7 @@ work_IMG
 			必殺演出｜閲覧
 			音楽 = Music
 			効果音 = SFX
-		face.png#Phantom
+		face.png#done
 		information.png
 		information2.png
 			話をスキップする = Skip dialogue
@@ -203,10 +203,10 @@ work_IMG
 			第１１話　竜崎｜「正義」= Chapter 11 Ryuzaki|Justice
 		title_under.png
 			DEATH NOTEをタッチ = Tap Death Note
-		tuto_face.png#Phantom
+		tuto_face.png#done
 			脱落 = Out
 		tuto_game.png #reference fukidasi.png Phantom
-		tuto2_intro.png
+		tuto2_intro.png#done
 		tutorial.png
 			プロローグ = Prologue
 			画面タッチでメッセージを進めます = Tap screen to continue. #not found
@@ -289,7 +289,7 @@ work_NSBMD
 			検挙するべきだと = Who will be arrested?
 		bg040a_bg040a.png
 			検挙 = Arrested
-		bg042a_bg042a.png
+		bg042a_bg042a.png#issue 10
 			脱落 = Out
 		bg043a_bg043a.png
 			キラの｜裁き = Kira's Judgement
@@ -431,16 +431,16 @@ work_NSBMD
 			崇拝者が検挙｜されない状態でクリア = Clear without arresting Kira's follower.
 		req20a_req20a.png
 			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
-		taikou1a_taikou1a.png#leave for now
+		taikou1a_taikou1a.png
 			対抗発言に勝利！
-		taikou2a_taikou2a.png#leave for now
+		taikou2a_taikou2a.png
 			対抗発言に敗北
 		title04a_title04a.png
 		title05a_title05a.png
 			C大場つぐみ・小畑健/集英社
 			VAP・マッドハウス・NTV・D.N.ドリームパートナーズ
 	face
-		faceall_faceall.png
+		faceall_faceall.png#done
 			全員 = All
 	menu
 		csele00a_csele00a.png
@@ -585,7 +585,7 @@ work_NSBMD
 			キラ特集 = Who is Kira?
 			今回は絶対真実 = The truth revealed!
 			キラの正体！！ = Kira's identity!
-		tut00a_tut00a.png
+		tut00a_tut00a.png#done
 		tut03a_bg030a.png
 		tut04a_bg010a.png
 		tut05a_bg020a.png
