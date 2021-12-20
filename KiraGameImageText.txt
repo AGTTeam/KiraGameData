@@ -50,7 +50,7 @@ work_IMG
 			タイトルへ｜戻る = Return to title
 			チュートリアル = Tutorial
 			接続画面｜へ｜戻る = Return to connection screen
-		information.png
+		information.png#done
 			はい = Yes
 			いいえ = No
 			キャンセル = Cancel
@@ -122,10 +122,10 @@ work_IMG
 			音楽 = Music
 			効果音 = SFX
 		face.png#done
-		information.png
-		information2.png
+		information.png#done
+		information2.png#done
 			話をスキップする = Skip dialogue
-			次の説明を聞く = Next explanation
+			次の説明を聞く = Next tutorial#or Continue
 			もう一度同じ説明を聞く = Repeat explanation
 		modeselect.png
 			モード｜セレクト = Mode Select
@@ -289,7 +289,7 @@ work_NSBMD
 			検挙するべきだと = Who will be arrested?
 		bg040a_bg040a.png
 			検挙 = Arrested
-		bg042a_bg042a.png#issue 10
+		bg042a_bg042a.png#done
 			脱落 = Out
 		bg043a_bg043a.png
 			キラの｜裁き = Kira's Judgement
