@@ -10,7 +10,7 @@ work_IMG
 			ゲームを｜終わる = End game
 			続けて｜プレイ = Continue game
 			キャラクターと｜ルールを｜変えてプレイ = Play with new rules and characters
-			画面タッチで次に進みます = Tap screen to continue.
+			画面タッチで次に進みます = Tap to continue.
 			相手が選択中です = Players selecting...
 			しばらくお待ちください・・・・・・ = Please wait.
 		deathnote.png
@@ -41,7 +41,7 @@ work_IMG
 			必殺発言内容=#shows in the background when selecting a 必殺技
 			これでよろしいですか？
 			パス = Pass
-			画面タッチで次に進みます = Tap screen to continue.
+			画面タッチで次に進みます = Tap to continue.
 			必殺発言を行う人にスライドさせて下ください｜タッチで情報を確認します
 			対戦相手をお待ち下さい
 		function.png
@@ -183,8 +183,8 @@ work_IMG
 		story_intro.png
 			ストーリー｜モード = Story Mode
 			スキップ = Skip
-			画面タッチで進みます = Tap screen to continue.
-			画面タッチでキラゲーム開始 = Tap screen to start Kira Game.
+			画面タッチで進みます = Tap to continue.
+			画面タッチでキラゲーム開始 = Tap to start Kira Game.
 			タイトルに戻る = Return to title
 		story_restart.png
 			最初｜から = New Game
@@ -209,7 +209,7 @@ work_IMG
 		tuto2_intro.png#done
 		tutorial.png
 			プロローグ = Prologue
-			画面タッチでメッセージを進めます = Tap screen to continue. #not found
+			画面タッチでメッセージを進めます = Tap to continue. #not found
 		understaff.png
 		vsmode.png
 			対戦モード = VS Mode
