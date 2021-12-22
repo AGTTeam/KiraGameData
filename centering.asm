@@ -242,23 +242,23 @@
     mov r2,0x48000
   ;"ここまでの進行をセーブしました"
   .org 0x020475e4
-    mov r2,0x26000
+    mov r2,0x40000
   ;"ゲームを続けますか"
   .org 0x02047604
-    mov r2,0x4a000
+    mov r2,0x68000
 
   ;"プレイ結果"
   .org 0x020495b0
-    mov r2,0x60000
+    mov r2,0x6c000
   ;"KIRA"
   .org 0x020495cc
     mov r2,0x10000
   ;"L"
   .org 0x02049604
-    mov r2,0x3e000
+    mov r2,0x3d000
   ;"崇拝者"
   .org 0x02049654
-    mov r2,0x52000
+    mov r2,0x50000
   ;"    ターン数  %d  "
   .org 0x020496c4
     mov r2,0x88000
@@ -305,7 +305,7 @@
 
   ;"セーブしてタイトルへ戻ります"
   .org 0x0206b3d4
-    mov r2,0x2c000
+    mov r2,0x21000
   ;"よろしいですか？"
   .org 0x0206b3f0
     mov r2,0x50000
@@ -344,41 +344,41 @@
     mov r2,0x04000
   ;"%sの発言"
   .org 0x0206f08c
-    mov r2,0x02000
+    mov r2,0x04100
   ;"%s パス"
   .org 0x0206f118
     mov r2,0x04000
 
   ;"反論によって<col34>疑惑度<col37>の効果が逆になった"
   .org 0x0206f1c8
-    mov r2,0x12000
+    mov r2,0x1e000
   ;"同調によって発言の効果が高まった"
   .org 0x0206f1ec
-    mov r2,0x1e000
+    mov r2,0x1f000
   ;"対抗によって発言の効果が高まった"
   .org 0x0206f230
-    mov r2,0x1e000
+    mov r2,0x28000
   ;"対抗によって<col34>疑惑度<col37>の効果が逆になった"
   .org 0x0206f298
-    mov r2,0x12000
+    mov r2,0x21000
   ;"発言結果"
   .org 0x0206f2b4
-    mov r2,0x60000
+    mov r2,0x68000
   ;"<col34>疑惑度<col37>が０になった"
   .org 0x0206f944
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col34>疑惑度<col37>が５０になった"
   .org 0x0206f990
-    mov r2,0x70000
+    mov r2,0x86000
   ;"<col36>信頼度<col37>が１００になった"
   .org 0x0206f9dc
-    mov r2,0x70000
+    mov r2,0x86000
   ;"→"
   .org 0x0206fa20
     mov r2,0x3a000
   ;"<col36>信頼度<col37>が６０になった"
   .org 0x0206fa68
-    mov r2,0x70000
+    mov r2,0x86000
   ;"→"
   .org 0x0206faac
     mov r2,0x3a000
@@ -387,7 +387,7 @@
     mov r2,0x74000
   ;"<col36>発言力<col37>があがった"
   .org 0x0206fb4c
-    mov r2,0x74000
+    mov r2,0x76000
   ;"<col35>発言力最大値<col37>が"
   .org 0x0206fb84
     mov r2,0x08000
@@ -462,54 +462,54 @@
     mov r2,0x74000
   ;"<col35>発言力<col37>が４０さがった"
   .org 0x02070240
-    mov r2,0x68000
+    mov r2,0x74000
   ;"<col34>疑惑度<col37>があがった="
   .org 0x020703ec
-    mov r2,0x58000
+    mov r2,0x8e000
   ;"<col34>疑惑度<col37>がさがった"
   .org 0x02070464
-    mov r2,0x80000
+    mov r2,0x8e000
   ;"<col35>発言力<col37>が全回復した"
   .org 0x020704b0
-    mov r2,0x74000
+    mov r2,0x80000
   ;"<col35>発言力最大値<col37>があがった"
   .org 0x020704fc
-    mov r2,0x5c000
+    mov r2,0x7b000
   ;"<col34>疑惑度<col37>があがった"
   .org 0x02070cd4
-    mov r2,0x80000
+    mov r2,0x8e000
   ;"<col34>疑惑度<col37>がさがった"
   .org 0x02070d34
-    mov r2,0x80000
+    mov r2,0x8e000
   ;"<col36>信頼度<col37>があがった"
   .org 0x02070d90
-    mov r2,0x80000
+    mov r2,0x8e000
   ;"→"
   .org 0x02070de0
     mov r2,0x3a000
   ;"<col36>信頼度<col37>がさがった"
   .org 0x02070e3c
-    mov r2,0x80000
+    mov r2,0x8e000
   ;"→"
   .org 0x02070e8c
     mov r2,0x3a000
 
   ;"<col36>信頼度<col37>に関する情報"
   .org 0x02071010
-    mov r2,0x4a000
+    mov r2,0x50000
   ;"→"
   .org 0x02071070
     mov r2,0x3a000
   ;"<col36>信頼度<col37>が"
   .org 0x0207109c
-    mov r2,0x80000
+    mov r2,0x9e000
   ;"１００になった"
   .org 0x020710e0
-    mov r2,0x80000
+    mov r2,0x9c000
 
   ;"役職に関する情報"
   .org 0x02071150
-    mov r2,0x4c000
+    mov r2,0x58000
   ;"<col34>崇拝者<col37>"
   .org 0x02071400
     mov r2,0x80000

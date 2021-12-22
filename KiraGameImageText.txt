@@ -24,10 +24,10 @@ work_IMG
 			信頼 ↓=Trust ↓
 			同調=Agree
 			反論=Counter
-			対抗=Argue
+			対抗=Counter (Debate)
 			必殺！=Stun
 			専用=Unique
-			決定=Vote
+			決定=Select
 			発言力回復=Influence ↑
 			発言=Influence
 			疑惑全↑=Doubt ↑ All
