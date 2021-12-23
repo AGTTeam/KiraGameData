@@ -129,7 +129,7 @@
 捜査本部１=
 松田落下前=
 演説する月=
-L is dead.=L is dead.
+L is dead.=     L is dead.
 検挙パート=Arrest
 投票パート=Vote
 松田落下後=
@@ -163,7 +163,7 @@ L is dead.=L is dead.
 正面 悔しがる=    Front - Annoyed
 海砂拘束 驚き=Misa restrained - Surprised
 右向 悔しがる=     Right - Annoyed
-LIND.L.TAILOR=Lind L. Tailor
+LIND.L.TAILOR=         Lind L. Tailor
 正面 うなずき=     Front - Nodding
 リューク 焦り=     Ryuk - Anxious
 リューク 通常=     Ryuk - Neutral
