@@ -374,7 +374,7 @@
 僕が間違ってるって言うのかい？=You mean to say I'm wrong?
 僕が間違ってるって言うんですか？=Are you saying I'm wrong?
 絶対　僕の方が正しい！=I'm right! I just know it!
-絶対　僕の方が正しいです！=I'm know I'm right!
+絶対　僕の方が正しいです！=I know I'm right!
 どうして|わかってくれないんだ！=Why don't you understand!?
 どうして|わかってくれないんですか！=Why won't you understand!?
 みんなで|僕をのけ者にしてぇ！=I will not be left out!
@@ -1679,7 +1679,7 @@
 だから|僕は　キラなんかじゃないっすよ！！=See? I'm not Kira!
 いや…僕が…Ｌなんだけど…=But... I'm L...
 う　うわぁぁぁっ！！=N-Noooo!
-縁起でもないっすよ！|Ｌがキラにやられるなんて！=This is a bad omen! L's not safe from Kira!#Matsuda – when defeated as L.
+縁起でもないっすよ！|Ｌがキラにやられるなんて！=This is a bad sign! L's not safe from Kira!#Matsuda – when defeated as L.
 これじゃ|Ｌの身代わりっすね…=I was only a stand-in for L.
 ！？　なぜだ！！=!? Why!?#Mogi
 …やむを得ない…な…=It was unavoidable.
@@ -3305,7 +3305,7 @@
 それと　夜神さん…|息子さん　月くんでしたか=By the way, Mr. Yagami, your son... His name was Light, yes?
 …？　息子が何か…=What do you want with my son?
 月くんの都合がつくときに|捜査協力を願っても|よろしいでしょうか？=I was hoping to ask for his cooperation with the investigation, his schedule permitting.
-　　　　過去に　月の助言によって|　　 解決へと導かれた事件も多かった|　　　　Ｌの抹殺を望む月にとって|　この申し出は　願ってもないものだった=<<Light's ideas had led to many past cases being solved, but for Light who hopes to remove L from the equation, the proposal was almost too good to be true.
+　　　　過去に　月の助言によって|　　 解決へと導かれた事件も多かった|　　　　Ｌの抹殺を望む月にとって|　この申し出は　願ってもないものだった=<<Light's ideas had led to many past cases being solved, but for Light, who hopes to remove L from the equation, the proposal is almost too good to be true.
 　　　　　 だが　はたしてＬは|　 月の推理力のみを期待しているのか…|　　　　　　　 それとも…=<<Whether or not Light's deductive ability was the real reason for the request...
 　　　　こうして　夜神月＝キラは|自らを追う捜査本部に　身を置く事になった=<<Light, who is in fact Kira, will aid in the investigation and his own capture.
 　　　 キラは　Ｌを始末するため…|　　　 Ｌは　キラを捕まえるため…=<<Kira to eliminate L...|L to catch Kira...
@@ -3510,7 +3510,7 @@
 　　　　　怪しい人物の見分け方　　　　　|　　　　　 【キラを探す場合】 　　　　　=<<Identifying a suspicious person|[Finding Kira]
 　　　　　怪しい人物の見分け方|　　　　　　【Ｌを探す場合】　　　　　　=<<Identifying a suspicious person|[Finding L]
 ゲーム解説=
-対抗は　反論した方が<col4>２回|<col8>反論を受けた方が<col4>３回|<col8>行う事ができます=In a debate, the initiator may counter <col4>twice<col8>, and the receiver, <col4>three times<col8>.
+対抗は　反論した方が<col4>２回|<col8>反論を受けた方が<col4>３回|<col8>行う事ができます=In a debate, the initiator may counter <col4>twice<col8>, and the opponent, <col4>three times<col8>.
 さらに　対抗しあうほど|発言の効果が|高まっていきます=Furthermore, the longer the debate, the more effective the arguments will be in the end.
 自分に<col4>有利な発言には同調<col8>し|<col4>不利な発言には反論<col8>する…|これが定石です=<col4>Agree with favorable arguments<col8>, and <col4>counter unfavorable arguments<col8>. That's the basic idea.
 発言力の残りに注意しながら|同調や反論を活用してください=Keep your remaining influence in mind as you make use of agreements and counters.
