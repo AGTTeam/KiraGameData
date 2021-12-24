@@ -394,13 +394,13 @@ work_NSBMD
 		req02a_req02a.png
 			松田の疑惑度が｜０の状能でクリア = Clear with Matsuda's Doubt at 0.
 		req03a_req03a.png
-			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.#needs testing to confirm
+			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.
 		req04a_req04a.png
 			キラを１回目の投票パートで｜検挙してクリア = Clear by having Kira arrested after the first voting phase.
 		req05a_req05a.png
 			相沢と松田からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Aizawa and Matsuda's Trust at 100.
 		req06a_req06a.png
-			Lを１回目のキラパートで裁いてクリア = Clear by judging L at the end of the first round.#needs testing
+			Lを１回目のキラパートで裁いてクリア = Clear by judging L at the end of the first round.
 		req07a_req07a.png
 			粧裕と総一郎からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Sayu and Soichiro's Trust at 100.
 		req08a_req08a.png
