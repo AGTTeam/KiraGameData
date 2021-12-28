@@ -389,7 +389,7 @@
   .org 0x0206fb4c
     mov r2,0x76000
   ;"<col35>発言力最大値<col37>が"
-  .org 0x0206fb84
+  .org 0x0206fbb0
     mov r2,0x08000
   ;"１０さがった"
   .org 0x0206fbdc
