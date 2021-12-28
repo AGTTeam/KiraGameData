@@ -1,4 +1,5 @@
       通信エラーが発生しました      =A communication error has occurred.
+      通信エラーが発生しました      =A communication error has occurred.
 タッチスクリーンをタッチしてください=Tap the touch screen.
 データを書き込めませんでした=Could not write data.
     電源を切ってカードを    =Turn of the power
@@ -340,7 +341,7 @@ LIND.L.TAILOR=         Lind L. Tailor
 対抗によって発言の効果が高まった=Argument bolstered by the Debate
 対抗によって<col34>疑惑度<col37>の効果が逆になった=Debate caused <col34>Doubt<col37> to be reversed
 発言結果=Argument
-<col34>疑惑度<col37>が０になった=<col34>Doubt<col37> 60
+<col34>疑惑度<col37>が０になった=<col34>Doubt<col37> 0
 <col34>疑惑度<col37>が５０になった=<col34>Doubt<col37> 50
 <col36>信頼度<col37>が１００になった=<col36>Trust<col37> 100
 →=

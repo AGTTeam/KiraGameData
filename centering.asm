@@ -390,10 +390,10 @@
     mov r2,0x76000
   ;"<col35>発言力最大値<col37>が"
   .org 0x0206fbb0
-    mov r2,0x08000
+    mov r2,0x74000
   ;"１０さがった"
   .org 0x0206fbdc
-    mov r2,0x74000
+    mov r2,0x8c000
   ;"<col34>疑惑度<col37>を交換した"
   .org 0x0206fc14
     mov r2,0x80000
@@ -405,10 +405,10 @@
     mov r2,0x70000
   ;"<col36>信頼度<col37>が１００になった"
   .org 0x0206fcec
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col34>疑惑度<col37>が０になった"
   .org 0x0206fd44
-    mov r2,0x74000
+    mov r2,0x86000
   ;"→"
   .org 0x0206fd74
     mov r2,0x3a000
@@ -420,7 +420,7 @@
     mov r2,0x5c000
   ;"<col34>疑惑度<col37>が２０さがった"
   .org 0x0206fe4c
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col35>発言力最大値<col37>が"
   .org 0x0206fec4
     mov r2,0x74000
@@ -429,10 +429,10 @@
     mov r2,0x74000
   ;"<col34>疑惑度<col37>が１００になった"
   .org 0x0206ff28
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col34>疑惑度<col37>が２０あがった"
   .org 0x0206ff74
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col35>発言力最大値<col37>が"
   .org 0x0206ffec
     mov r2,0x74000
@@ -444,10 +444,10 @@
     mov r2,0x74000
   ;"<col36>信頼度<col37>が１００になった"
   .org 0x0207009c
-    mov r2,0x74000
+    mov r2,0x86000
   ;"<col36>信頼度<col37>が０になった"
   .org 0x020700e4
-    mov r2,0x74000
+    mov r2,0x86000
   ;"→"
   .org 0x02070128
     mov r2,0x3a000
@@ -471,7 +471,7 @@
     mov r2,0x8e000
   ;"<col35>発言力<col37>が全回復した"
   .org 0x020704b0
-    mov r2,0x80000
+    mov r2,0x79000
   ;"<col35>発言力最大値<col37>があがった"
   .org 0x020704fc
     mov r2,0x7b000
