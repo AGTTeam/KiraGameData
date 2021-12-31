@@ -569,7 +569,7 @@
 実は%が|キラだとか…=I mean, there's something iffy about % for sure.
 キラは　%みたいな|人じゃない？=I mean, %'s definitely Kira-ish, right?
 キラは　%みたいな|人じゃない？=Gosh, I think %'s a lot like Kira, y'know?
-%は|キラじゃないよね|雰囲気的に=% doesn't really have that ‘Kira' aura, y'know?
+%は|キラじゃないよね|雰囲気的に=% doesn't really have that "Kira" aura, y'know?
 %は|キラじゃないよね|雰囲気的に=%'s aura is so not Kira.
 %がキラぁ？|そんなわけないって=%'s Kira!? Nuh-uh, not a chance.
 %がキラぁ？|そんなわけないって=%'s Kira!? I don't buy it.
@@ -2195,7 +2195,7 @@
 ええ　いいでしょう|望むところよ！=
 どちらが　夜神くんに|ふさわしい女性か|決まったみたいね？=I guess that settles who's really more Light's type.
 ぎーッ！　くっやっしぃー！|こうなったら　体力で勝負よ！|表へ出なさい！=Rgh! You'll regret that! We'll make it physical this time! I'll meet you outside!
-…ライト|今日は　もう遅いから　皆さんに|帰ってもらいなさい=Light, it's getting late. I think you should see everyone off for today.
+…ライト|今日は　もう遅いから　皆さんに|帰ってもらいなさい=It's getting late. Let's all go home for the day.
 ああ…=Yeah...
 それから後で　少し話がある|いいな　ライト…=Then we need to have a little talk, alright, Light?
 ああ…=Yeah...
@@ -2226,7 +2226,7 @@
 もう…　我慢できない|殺して　早く殺して…=I can't take it anymore. Kill me... Kill me. Please, just kill me.
 り…　竜崎　これは…=Ryuzaki, what's the meaning of this!?
 第２のキラとして　捕まえたんです=I've apprehended her on suspicion of being the second Kira.
-えーっ！　じゃあじゃあ　お父様|ミサの事　お嫌いですか？|ミサは　お父様の事　大好きですよ？=Oh no! Does that mean you hate me? 'Cause I really like you, Mr. Dad.#Not sure about the dub, but I think she calls him dad in the subs. I thought Mr. Dad was quite cute and Misa-ish, but change if not appropriate.
+えーっ！　じゃあじゃあ　お父様|ミサの事　お嫌いですか？|ミサは　お父様の事　大好きですよ？=Oh no! Does that mean you hate me? 'Cause I really like you, Daddy Yagami.
 あ…　弥くん　私は　そんな事を|言っておるのではなくて|ただ結婚は　早いと…=Er, that's not what I mean to imply, Miss Amane. It just feels a little too soon.
 まったく　余計な事ばかり…|女を殴りたいと　思ったのは|生まれて　初めてだ…=
 えーと　じゃあじゃあ…|あッそうだ！　今！|キラゲーム　流行ってますよね？=Well... Oh, I know! You've heard of the Kira Game, haven't you? It's all the rage right now!
@@ -2235,7 +2235,7 @@
 くぅー！|ミサって　あったまいー！=Oh, Misa, your plans are so diabolical!
 いや…　弥くん　どうして|キラゲームで　そんな事を|決めなければ　いけないんだ…=Er, Miss Amane, I don't understand why these things must be decided by the Kira Game?
 そんなのミサにもわかんないですけど|でも　いいじゃないですか|ね？　ね？　ね？=I don't either, but there's nothing to understand as long as it works, right? Come on! Play! Play!
-お父様！　ミサの実力　おわかり|いただけました？　ふつつか者ですが|よろしく　お願いします！=I hope you understand me a little better now, Mr. Dad. Please give me a chance!
+お父様！　ミサの実力　おわかり|いただけました？　ふつつか者ですが|よろしく　お願いします！=I hope you understand me a little better now, Daddy Yagami. Please give me a chance!
 いや　だから　それは…|弥くん…=Well, Miss Amane, I, er...
 ………………|………………=.........
 なんて面倒な|まったく女というのは…=I'm not sure she's worth the hassle even with the shinigami eyes.
@@ -2778,7 +2778,7 @@
 夜神局長は　各ＴＶ局に放映する枠を|取る様　通達をお願いします|月くんも　とにかく時間がありません=
 夜のニュースには　流せるよう|キラからの　呼びかけの原稿を|作ってもらえますか？=
 ………………|なんだ　この|竜崎の段取りの良さは…=Damn him! He must have been planning this from the beginning!
-こいつ…　もしかして　最初から|僕に　この役をやらせるために|キラゲームを　仕組んだのか…？=From the start, he was steering us to play the Kira Game to get me to take on this role.
+こいつ…　もしかして　最初から|僕に　この役をやらせるために|キラゲームを　仕組んだのか…？=From the start, he was leading us to play the Kira Game to get me to take on this role.
 なあ　ミサ…　せっかく|デスノートあげたのに　もっと|自分の為に利用しなくて　いいのか？=Misa, I gave that Death Note to you specifically, you know. Why do you not use it more for yourself?
 自分の為に使ってるよ　レム|ミサは　キラがどんな人か|知りたいの=I am using it for myself, Rem. I'm using it because I really want to know what kind of person Kira is.
 その為に　わざわざＴＶに|あんなの送って　キラから返事|もらえる様にしたんだから=That's why I asked on TV for him to find a way for us to meet. He hasn't replied yet though.
