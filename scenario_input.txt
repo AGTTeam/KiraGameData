@@ -1960,7 +1960,7 @@
 月くんの場合　途中から演技を見破っていた|可能性も否めませんし　弥海砂には|メッセージビデオを　送った際の証拠が|数点ありますので　キラが捕まり|全てが解明されるまでは　監視下に置く…=
 しかし約束通り　ふたりの拘束は解き|そして　月くんには|再び　捜査に戻ってもらいましょう=However, their confinement will end immediately, and Light will return to the investigation.
 ………………|…わかった　竜崎|一緒に　捕まえよう…　キラを！=Fine by me, Ryuzaki.|We'll catch Kira. Together!
-１か月後=One month later#alignment
+１か月後=One month later
 ………………………|………………|………=.........
 竜崎…　おまえ|このひと月　全然やる気ないよな？=What's wrong with you? You haven't seemed motivated since I was released.
 はい|…私は　ずっと月くんがキラじゃないのか？|そう考えていましたから　その推理が|外れだとしたら　もうショックで…=
@@ -2074,7 +2074,7 @@
 あ…　ああ！　あのネクラの竜崎が|考えた　ベランダ逆立ちですか！|じゃあ失礼して…　あら　よっと！=Oh, right! That thing! Everyone, the moment you've all been waiting for, the Taro Matsui show!
 何してるんですか！？|酔ってるのに…|危ないですよ！=Hey, you're drunk! That's way too dangerous!
 い…　いえいえ|いつも　やってるから大丈夫ですよぉ=Don't worry. I'm just fine. I do this all the time.
-いつもって…|社長　あんなこと|いつも　させてるんで…　ああ！！！=All the time? And your boss let's you get away with that? Ah!!!
+いつもって…|社長　あんなこと|いつも　させてるんで…　ああ！！！=All the time? And your boss lets you get away with that? Ah!!!
 うわ…　落ちた！=Agh! He fell!
 うわああああああ…！=Waaaaaaaaah!!
 おい…　まずいぞ…=This can't be good.
@@ -2298,7 +2298,7 @@
 そして　僕は新世界の神になる！=I will be the god of the new world!
 いいか竜崎　ルールとは　いつの世界も|神とされる者によって　創られるものだ=Ryuzaki, no matter the world, its god creates the rules.
 おまえは僕の創った　ウソのルールに平伏し|新世界の神に　逆らおうとした罪で死ぬんだ=In truth, you've already been defeated by the rules I created. And as punishment for defying the god of the new world, you will die.
-竜崎　これでもう|月くんと弥の疑いは　晴れた|ふたりの監視は　終わりだ=Ryuzaki, Ms. Amane and Light have both been cleared. They shouldn't be under surveillance any longer.
+竜崎　これでもう|月くんと弥の疑いは　晴れた|ふたりの監視は　終わりだ=Ryuzaki, Amane and Light have both been cleared. They shouldn't be under surveillance any longer.
 ……わかりました|…今まで　申し訳ありませんでした|ふたりの監視は　終わりにします=I understand. Please accept my apologies for all the trouble. I will end the surveillance.
 ただし　ミサさんは　捜査本部支給の|ＧＰＳ携帯を常に持ち|週に３度は　本部に出向くこと=But I ask that Misa carry her GPS-enabled cell phone at all times and come to HQ every week.
 キラ事件の捜査に　かかわった以上|キラに命を　狙われないとは|限りません…=Due to her involvement with the investigation, there's always a chance she could be killed by Kira.
@@ -2307,17 +2307,17 @@
 …松田　それくらいにしておけ|しばらく　ふたりっきりに|させてあげよう=Knock it off, Matsuda. Let's leave them alone.
 この角度なら　監視カメラに映らない|小声ならマイクも　拾えない|外まで送って行く必要も　なさそうだ=The cameras won't pick up my face from this angle, and they won't hear me if I speak in a low voice.
 今から言う場所に　埋めてある物を|絶対　誰も見てない時に|ひとりで　掘り出してくれ=Misa, I'm going to tell you about a special place. I need you to go there and dig something up.
-そうすれば　自分が何をすればいいか|全て　わかるはずだ|いいね　ミサ=Make sure no one is watching.|Do that and you'll know everything to do next. Understood?
+そうすれば　自分が何をすればいいか|全て　わかるはずだ|いいね　ミサ=Make sure no one is watching.|Do that and you'll know what to do next. Understood?
 …！　ライト　記憶　戻ってたのね|大丈夫　ミサ|うまくやるよ！=Light, your memory must have returned! Don't worry. I can do this. I won't let you down.
 あった…　デスノート！=Light, I remember everything from when I had this notebook.
-ライトがミサのために　埋めて隠しておいて|くれたんだ　全部　思い出したよ　ライト…|あとは　大学で見た　竜崎の名前を|思い出せば　ライトが勝つのね！=|You buried this so I could regain my memories. If I can remeber Ryuzaki's name, Light will win!
+ライトがミサのために　埋めて隠しておいて|くれたんだ　全部　思い出したよ　ライト…|あとは　大学で見た　竜崎の名前を|思い出せば　ライトが勝つのね！=|You buried this so I could regain my memories. If I can remember Ryuzaki's name, Light will win!
 竜崎の名前を　思い…　出せば…　ダメだぁ|あの時は　死神の目で毎日　何百人って|人の名前と寿命見てたんだもん　絶対無理！=But, Light, it's no good. I don't remember his name anymore. I was seeing hundreds of names every day. I can't remember!
 どうしよう　ライトに嫌われちゃう！=|I'm an idiot! Light's gonna hate me!
 はーっ|やっと人間界に　戻ってこれた|俺は　そのノートの落とし主　リュ…=I've finally returned to the human world. I'm the owner of that notebook there, Ryu--
 あー！　リューク！！|ちょうど　良かった！|お願いがあるの！=Ah, Ryuk! I'm so glad to see you!|I need a favor!
 どういう事だ！？|また　犯罪者裁きが…！=What's going on!? I heard criminals are being killed again.
 昨夜だけで　１６人！|火口が　死んでから|報道された　犯罪者ばかり…=There were 16 deaths just yesterday. All of them were broadcast after Higuchi's death.
-もう　片っ端っすね…=Immediately after.
+もう　片っ端っすね…=It’s not over...
 火口のノートが　使われた痕跡はない|やはり　ノートは|もう１冊以上ある…=There are no signs of Higuchi's notebook having been used. This proves there's another one.
 …夜神月は　犯罪者裁きなんて|素振りは　見せなかった…|なら　犯人はミサか…　しかし…=Light Yagami has made no move to judge criminals. It has to be Misa.
 犯罪者裁きの再開は　ミサがノートを|掘り出し　完全に記憶を取り戻した証し…|さらに竜崎の本名を　思い出していれば|いつでも　竜崎を殺せる=
@@ -2335,7 +2335,7 @@
 そうでなくても　ミサは第２のキラとして|疑われていたんだ　万が一　キラの能力を|持ったとしても　このタイミングで|使うほど　バカじゃない=
 途端と言うなら　火口が死んだ途端だろう=Think about it. This started as soon as Higuchi died.
 いえ　キラなら…|キラを演じる　才能があるのなら|それを　逆手にとって…=No, if I were Kira...|If I were Kira, that's exactly what I'd want L to think.
-竜崎　１３日のルールがある以上|弥もライトも　キラであるはずがない|いい加減　疑うのは　止めるべきだ=Ryuzaki, as long as that 13 day rule is there, Light and Ms. Amane can't be Kira.
+竜崎　１３日のルールがある以上|弥もライトも　キラであるはずがない|いい加減　疑うのは　止めるべきだ=Ryuzaki, as long as that 13 day rule is there, Light and Miss Amane can't be Kira.
 しかし　その１３日のルールは|実際には　まだ検証されていません=Perhaps. But the 13 day rule hasn't actually been verified yet.
 竜崎…　そこまで　言うのなら|キラゲームで　僕の心を…|いくらでも　暴いてみるがいい！=Ryuzaki, if I can't convince you, look into my heart with the Kira Game. Look as deep as you'd like!
 ただし　もうこれが最後だ|わかったな！=But this is the last time. Do you understand?
@@ -2361,9 +2361,9 @@
 今　確かなのは　このままでは|竜崎　指揮の下に　いつかは|ミサが　捕まるという事…=|What is certain now is that under Ryuzaki's command, Misa will be caught someday.
 ……………………=.........
 夜神月　最初からこうなる事を|読んでいたのか…=Light Yagami has planned everything so that it will work out in his favor.
-１３日以内に　名前を書き続ける…|問題は　この一文だけ…=Consecutively write names within 13 days of each other... That sentence is the one problem.
+１３日以内に　名前を書き続ける…|問題は　この一文だけ…=Consecutively write names within 13 days of each other... That sentence is the only problem.
 これを検証して　もし偽りなら　夜神月も|弥海砂も　キラであって　おかしくない=|If we can test it and prove it's false, Light and Misa could be the two Kiras. It would all fit.
-やってみるか…|承認を得られれば　問題はないはずだ=||Do I go through with it? If I can get approval, there should be no problem.
+やってみるか…|承認を得られれば　問題はないはずだ=||Do I go through with it? If I can get the approval, there should be no problem.
 どこかの国に　掛け合ってみましょう|このノートを|死刑に　使ってもらいます=We'll coordinate with an outside country to have the notebook used for the death penalty.
 ……！|竜崎　ノートを試すというのか！？=Ryuzaki, do you mean to test the notebook!?
 はい　ノートに名前を|書き込むのは　１３日以内に|死刑の決まっている者とし…=Yes. We'll have a convicted criminal use it 13 days before their scheduled death sentence.
@@ -2406,7 +2406,7 @@
 …仕方ありませんね|ノートに　名前を書くという|殺し方は　わかっているんです=I have no choice. We know the notebook works by writing a person's name in it.
 少しでも　怪しいと思える者が出たら|片っ端から押さえ…=As long as she's even somewhat suspicious, we have to consider her a suspect.
 ノートを持っていないか|徹底的に　調べればいいだけですし=We just have to search thoroughly to see if she has a notebook.
-月くんも　ミサさんも|そんな事は　承知の上でしょう=Though Light and Misa both would take that into account.
+月くんも　ミサさんも|そんな事は　承知の上でしょう=Though, I’m sure you’re both already aware of that.
 殺人ノートの　検証をしない限り|立証は　できませんね　でも…|それは　捕まえてから考える事です=I suppose nothing can be proved without confirming the notebook's power, but that can wait.
 それに　事件が　解決すれば|私は　そんな事はどうでもいいんです|あとは法務省にでも　任せましょう=Besides, as long as the case is resolved, I don't much care. I'll leave that to the government.
 法務省なら　|おそらく　キラが捕まれば…=When we catch Kira, I imagine the Ministry of Justice would...
@@ -2535,8 +2535,8 @@
 ………………|ああ…　いいだろう=As you wish.
 ククク…|これで　俺は最強だ！|これなら　いくらでも手はある…=Hehehe... With these eyes, I'm invincible! I have more than enough options now.
 いいえ　証拠は必ずあるんです|でなければ　ＦＢＩの捜査員たちは|殺されたりしません=No. There's definitely evidence to be found. Otherwise, the FBI agents wouldn't have been killed.
-キラがＦＢＩを　殺したのは|捜査の手が迫れば　殺人の証拠を|見つけられて　捕まるからです=If the FBI's investigation would have turned up evidence. That's why he killed them.
-もし殺人の証拠が|存在しないのであれば|ＦＢＩを　殺す必要がありません=Without any tangible proof of his murders, there's no need to kill the FBI agents.
+キラがＦＢＩを　殺したのは|捜査の手が迫れば　殺人の証拠を|見つけられて　捕まるからです=The FBI's investigation might have turned up evidence. That's why he killed them.
+もし殺人の証拠が|存在しないのであれば|ＦＢＩを　殺す必要がありません=Without any tangible proof of his murders, there'd be no need to kill the FBI agents.
 キラを追い詰めれば|必ず証拠は出ます=If we can corner Kira, evidence will surface.
 どうでしょう？|今後　私達に協力してもらえれば|あなた方ふたりの　罪は問いません=So what will it be? You two will be given immunity for your crimes if you cooperate with us.
 Ｌの目的は|キラを捕らえる事なんです=L's sole objective here is Kira's capture.
@@ -2596,7 +2596,7 @@
 …いいな　夜神月|ミサを　助け出さなければ|おまえを　殺す！=Know this, Light Yagami. If you don't save Misa, I will kill you!
 わかったよ　レム|僕に考えがある…=I understand, Rem. I have a plan.
 ……………………|…さよならだ　リューク=This is goodbye, Ryuk.
-翌日=The following day#alignment
+翌日=The following day
 ねえ　ストーカーさん　そろそろ|ミサのこと　解放する気になった？|これ立派な　犯罪だからさぁ…=Mr. Stalker, this is illegal. You have to stop. Okay? Come on! Please!
 また　ストーカーか…　何の話だ…？|一度　気を失ってからは　ずっとこの調子…=She's been acting like this ever since she gained consciousness.
 あれだけ　第２のキラ容疑で尋問を|進めてきたのに　一体どういうことだ？|確保する際にも　第２のキラ容疑でと|明言してあるはずなのに…=When we apprehended her,|it was made clear that she was suspected of being|the second Kira.
@@ -2630,7 +2630,7 @@
 そうですね　あなたなら|そう　言い出す可能性があると思い|ワタリに　準備させておきました=I thought you might say that,|so I spoke with Watari.|He's made arrangements.
 ただし　拘束中も　これまでと同様|捜査に加わって　もらいます|それで　いいですね？=While you're in confinement, we will be giving you continual updates on the investigation.
 ありがとう…　恩に着る=I'm grateful. Thank you.
-夜神親子の拘束開始　３日め=Day 3#alignment
+夜神親子の拘束開始　３日め=Day 3
 また　すごい事に|なってきたな…=I didn't think this could get any more bizarre.
 僕は　もう局長が|気の毒で…=I feel so sorry for the chief right now.
 どうだ　竜崎　僕が拘束されてから|新たに犯罪者が　報道されたか？|その犯罪者は　キラに殺されたか？=Ryuzaki, what's happening? Have any new criminals Kira might target been identified?
@@ -2641,7 +2641,7 @@
 夜神月は自分から　拘束を望んだのに|これでは　夜神月がキラだったという事に…=If this continues, it'll only strengthen the argument|that he's Kira.
 こうなると問題は　キラの自覚の有無になる|例え夜神月が　キラだとしても|自覚がなかったで　押し通すつもりか？=|The only question left will be if he was conscious of being Kira.
 バカな　夜神月らしくない|いや　キラらしくない…=Is that his plan? It's not like Light Yagami. It's not like Kira.
-拘束開始　７日め=Day 7#alignment
+拘束開始　７日め=Day 7
 月くん　まだ１週間ですが|さすがに　やつれてきてます|大丈夫ですか？=Light, you've only been here for one week, but I'm sure it can't be easy. Are you feeling alright?
 ああ…　自分でも格好のいい状態とは|とても思えないが…|そんな　くだらないプライドは…=Yeah, I know I must look pretty bad in here, but this useless pride, I suppose I'll have to... get rid of it!
 …さよならだ　リューク=This is goodbye, Ryuk.
@@ -2662,7 +2662,7 @@
 突然　何を言い出すんだ…？=Where is this coming from all of a sudden?
 どうなっているんだ…？|前言撤回なんて　月くんらしくない…|それに全然　論理的でもない=What the hell is going on? This isn't like Light at all. He's contradicting himself.
 犯罪者が　殺されなくなった以上|月くんの拘束は　解けない|そのくらい　僕だってわかるのに…=Well, we can't release him now that the murders have stopped. Even I know that much.
-拘束開始　１５日め　ついに…=Day 15#alignment
+拘束開始　１５日め　ついに…=Day 15...
 キラ復活だ…|局長　キラが再び動き出しました！|新たに報道された　犯罪者も…=Kira's back.|Chief, Kira's started killing again!|Even newly-reported criminals!
 何っ！？|じゃ…　じゃあ息子は…？|ライトの疑いは…=What!? Th-Then that means my son... Any suspicions about Light...
 もう晴れたも　同然ですよ！|さっそく　月くんにも|教えてあげなくちゃ！=I'd say he's as good as cleared! Let's tell Light!
@@ -2671,7 +2671,7 @@
 バカを言うな竜崎…　これはワナだ…|僕の目を見てくれ！|これが嘘をついている　人間の目か？=Don't be ridiculous! This is a set-up! Look in my eyes! Do these look like the eyes of someone who is lying!?
 突然　どうしたんだ…　夜神月？|言っている事が　目茶苦茶だ|だが　なぜか真に迫る…=What's wrong with you, Light? What you're saying is absurd, but it feels believable.
 ………………|何が何だか　わからない…=I don't understand what's going on here.
-拘束開始　５０日め=Day 50#alignment
+拘束開始　５０日め=Day 50
 竜崎…　僕が拘束されてから|犯罪者が　死ななくなったのは…|僕をハメるためのワナだ…=Ryuzaki, I know criminals stopped dying after I was detained, but it's a set-up to frame me.
 …犯罪者が　再びキラに殺され始めて|もうひと月以上…|竜崎…　息子はキラではない…！=It's been more than a month since Kira started punishing criminals again. Ryuzaki, my son is not Kira!
 早く放して…|ライトに逢いたい…|ライト……=Please, just let me go. I want to see Light. Please... Light...
@@ -2703,7 +2703,7 @@
 ニッコリとうなずいて|ミサは　気を失った=Misa smiled and nodded before losing consciousness.
 世界一と言っても　|過言ではない探偵Ｌが　いや…=If Ryuzaki is L, then it's safe to say he's the world's best detective.
 竜崎が　キラだと疑っている人物=And the person he suspects of being Kira...
-キラによる殺人が再開=Kira returns to murdering criminals#alignment
+キラによる殺人が再開=Kira returns to murdering criminals
 !FILE:deathnote05_01.bin
 　南空ナオミが　行方を消してから数日後|　全国ネットＴＶ局　さくらＴＶ編成局に|　　　　数本のビデオテープが届く=<<A few days after the disappearance|of Naomi Misora, the headquarters for a national television station, Sakura TV,|received a number of video tapes.
 　　　　　差出人はキラを名乗り|　　ビデオの内容は　全世界へ向けての|　　　　　 メッセージだと言う=<<|The sender claims to be Kira and says the tapes contain a message for the world.
@@ -2912,7 +2912,7 @@
 あの…　もっとミサのことを信用して|もらうために　もう一度キラゲームを|しませんか…？　ねぇ　火口さん？=Um, maybe if we played the Kira Game again, you all could trust me more. What do say, Higuchi?
 そうだな…　くだらん尋問に時間を|割くくらいなら　キラゲームの方が|よほどミサちゃんの事が　わかるな=I agree. We'd learn more about her playing the Kira Game than with these trivial questions.
 のってきた　のってきた|あとは　うまく火口を信用させて|取り入れば　いいのね=He fell right into my trap. Now I've just got to butter Higuchi up to get him to trust me.
-翌日=The next day#alignment chp9
+翌日=The next day
 これで　いいんだ…=Perfect.
 ミサには　キラが誰なのか|もうわかってるし　これで…|絶対　ライトの　役に立てるはず！=I already figured out who's Kira. This will help Light so much!
 ミサちゃんの方から|誘いのメールが　もらえるなんて|思わなかったよ=I didn't expect to receive that invitation from you, Misa.
@@ -3552,7 +3552,7 @@
 そして　僕は新世界の神になる！=I will be the god of the new world!
 いいか竜崎　ルールとは　いつの世界も|神とされる者によって　創られるものだ=Ryuzaki, no matter the world, its god creates the rules.
 おまえは僕の創った　ウソのルールに平伏し|新世界の神に　逆らおうとした罪で死ぬんだ=In truth, you've already been defeated by the rules I created. And as punishment for defying the god of the new world, you will die.
-竜崎　これでもう|月くんと弥の疑いは　晴れた|ふたりの監視は　終わりだ=Ryuzaki, Ms. Amane and Light have both been cleared. They shouldn't be under surveillance any longer.
+竜崎　これでもう|月くんと弥の疑いは　晴れた|ふたりの監視は　終わりだ=Ryuzaki, Amane and Light have both been cleared. They shouldn't be under surveillance any longer.
 ……わかりました|…今まで　申し訳ありませんでした|ふたりの監視は　終わりにします=I understand. Please accept my apologies for all the trouble. I will end the surveillance.
 ただし　ミサさんは　捜査本部支給の|ＧＰＳ携帯を常に持ち|週に３度は　本部に出向くこと=But I ask that Misa carry her GPS-enabled cell phone at all times and come to HQ every week.
 キラ事件の捜査に　かかわった以上|キラに命を　狙われないとは|限りません…=Due to her involvement with the investigation, there's always a chance she could be killed by Kira.
@@ -3561,17 +3561,17 @@
 …松田　もうそれくらいにしておけ|しばらく　ふたりっきりに|させてあげよう=Knock it off, Matsuda. Let's leave them alone.
 この角度なら　カメラにも映らない|小声ならマイクも　拾えない|外まで送って行く必要も　なさそうだ=The cameras won't pick up my face from this angle, and they won't hear me if I speak in a low voice.
 今から言う場所に　埋めてある物を|絶対　誰も見てない時に|ひとりで　掘り出してくれ=Misa, I'm going to tell you about a special place. I need you to go there and dig something up.
-そうすれば　自分が何をすればいいか|全て　わかるはずだ|いいね　ミサ=Make sure no one is watching.|Do that and you'll know everything to do next. Understood?
+そうすれば　自分が何をすればいいか|全て　わかるはずだ|いいね　ミサ=Make sure no one is watching.|Do that and you'll know what to do next. Understood?
 …！　ライト　記憶　戻ってたのね|大丈夫　ミサ|うまくやるよ！=Light, your memory must have returned! Don't worry. I can do this. I won't let you down.
 あった…　デスノート！=Light, I remember everything from when I had this notebook.
-ライトがミサのために　埋めて隠しておいて|くれたんだ　全部　思い出したよ　ライト…|あとは　大学で見た　竜崎の名前を|思い出せば　ライトが勝つのね！=|You buried this so I could regain my memories. If I can remeber Ryuzaki's name, Light will win!
+ライトがミサのために　埋めて隠しておいて|くれたんだ　全部　思い出したよ　ライト…|あとは　大学で見た　竜崎の名前を|思い出せば　ライトが勝つのね！=|You buried this so I could regain my memories. If I can remember Ryuzaki's name, Light will win!
 竜崎の名前を　思い…　出せば…　ダメだぁ|あの時は　死神の目で毎日　何百人って|人の名前と寿命見てたんだもん　絶対無理！=But, Light, it's no good. I don't remember his name anymore. I was seeing hundreds of names every day. I can't remember!
 どうしよう　ライトに嫌われちゃう！=|I'm an idiot! Light's gonna hate me!
 はーっ|やっと人間界に　戻ってこれた|俺は　そのノートの落とし主　リュ…=I've finally returned to the human world. I'm the owner of that notebook there, Ryu--
 あー！　リューク！！|ちょうど　良かった！|お願いがあるの！=Ah, Ryuk! I'm so glad to see you!|I need a favor!
 どういう事だ！？|また　犯罪者裁きが…！=What's going on!? I heard criminals are being killed again.
 昨夜だけで　１６人！|火口が　死んでから|報道された　犯罪者ばかり…=There were 16 deaths just yesterday. All of them were broadcast after Higuchi's death.
-もう　片っ端っすね…=Immediately after.
+もう　片っ端っすね…=It’s not over...
 火口のノートが　使われた痕跡はない|やはり　ノートは|もう１冊以上ある…=There are no signs of Higuchi's notebook having been used. This proves there's another one.
 …夜神月は　犯罪者裁きなんて|素振りは　見せなかった…|なら　犯人はミサか…　しかし…=Light Yagami has made no move to judge criminals. It has to be Misa.
 犯罪者裁きの再開は　ミサがノートを|掘り出し　完全に記憶を取り戻した証し…|さらに竜崎の本名を　思い出していれば|いつでも　竜崎を殺せる=
@@ -3596,7 +3596,7 @@
 そうでなくても　ミサは第２のキラとして|疑われていたんだ　万が一　キラの能力を|持ったとしても　このタイミングで|使うほど　バカじゃない=
 途端と言うなら　火口が死んだ途端だろう=
 いえ　キラなら…|キラを演じる　才能があるのなら|それを　逆手にとって…=No, if I were Kira...|If I were Kira, that's exactly what I'd want L to think.
-竜崎　１３日のルールがある以上|弥もライトも　キラであるはずがない|いい加減　疑うのは　止めるべきだ=Ryuzaki, as long as that 13 day rule is there, Light and Ms. Amane can't be Kira.
+竜崎　１３日のルールがある以上|弥もライトも　キラであるはずがない|いい加減　疑うのは　止めるべきだ=Ryuzaki, as long as that 13 day rule is there, Light and Miss Amane can't be Kira.
 しかし　その１３日のルールは|実際には　まだ検証されていません|…………やってみましょう=Perhaps. But the 13 day rule hasn't actually been verified yet, so let's try it for real.
 どこかの国に　掛け合って|このノートを|死刑に　使ってもらいます=We'll coordinate with an outside country to have the notebook used for the death penalty.
 ……！|竜崎　ノートを試すというのか！？=Ryuzaki, do you mean to test the notebook!?
@@ -3619,7 +3619,7 @@
 …………バカな…|死神の…　不用意な　ひと言で…|僕の…　新世界が…　くっ…=Dammit! If that shinigami had kept its mouth shut! The new world...!|My new world...!
 月くん…　何か|言っておきたい事は　ありますか？|おそらく　１３日後には…=Light, is there anything you'd like to say? As for the 13 days, well...
 あなたの行動には　様々な制限が|つく事になると思います|話があるなら　今のうちに…=Your actions will be restricted during that time. If you have something to say, now's the time.
-………………|…キラは　新世界の神だ！=Kira is the god of this new world!
+………………|…キラは　新世界の神だ！=Kira is the god of the new world!
 キラが現れて　凶悪犯罪は確実に減った|それどころか　キラの力があれば|この世から　戦争だってなくせるはずだ=
 世の中は　腐っている|腐った人間が　多過ぎる！=
 人間は　幸せになる事を追求し|幸せになる権利がある！=
@@ -4074,7 +4074,7 @@
 スピード違反だ|免許証を　見せて=You were speeding.|License, please.
 ああ　わかったよ|…免許証　どこに入れたかな|カバンの中だったかな…？=Yeah, no problem. Let's see.|Where did I put it?
 こんなのに　付き合ってる時間はない|死神の目を手に入れた俺は　最強だ…|こいつの名は…　白場維人か…=I don't have time for this. But I'm stronger than ever with these shinigami eyes. Ito Shiraba, huh?
-白場維人…　事故死っと…　ククク…|デスノートに名前を　書かれたやつの|末路は決まってる…　あばよ！=Ito Shiraba... Dies in car accident... Hehehe... Your name's been written in the Death Note. Ciao!
+白場維人…　事故死っと…　ククク…|デスノートに名前を　書かれたやつの|末路は決まってる…　あばよ！=Ito Shiraba... Dies in a car accident. Hehehe... Your name's been written in the Death Note. Ciao!
 こらっ！　なんてやつだ！|振り切って　逃げるなんて！=Hey! What a bastard!|This is traffic control squad--!
 し…　白バイが|トラックに追突…　大破！|火口は逃走！　首都高速に乗ります！=That motorcycle cop just rear-ended a truck! He's dead! Higuchi's escaping!
 白バイが大破…　事故死？=He's dead!? By accident?
@@ -4097,7 +4097,7 @@
 ライフル命中！|火口の車　大きくスピンして停車！|確保に　移れ！=His tires have been shot out, and he's lost control of the vehicle! Move in to apprehend Higuchi!
 夜神さん　第２のキラの能力を|考慮して　火口の目をふさいだ上で|確保してください=Mr. Yagami, remember, this is Kira.|Be sure to take every precaution when you approach him.
 ダメだ…　もう逃げられない…|もはや　これまでか…|俺の人生は…　俺の人生は…=Shit. I've got no way out now.|This is it for me.
-火口卿介　確保！=Kyosuke Higuchi, put your hands above your head and get out of the car!
+火口卿介　確保！=Kyosuke Higuchi, put your hands in the air and get out of the car!
 …………|俺の人生は…　終わったんだ…=My life... It's over.
 手はず通り　火口にレシーバーを…|竜崎　これで直接|そちらと　会話できます=As planned, I've placed the headset on Higuchi. Ryuzaki, you can now speak with him directly.
 火口　どうやって殺人をしてきた？|キラとして　どうやって人を|殺してきた？　言うんだ！=Higuchi, how are you able to kill people? Tell me!
@@ -4134,7 +4134,7 @@
 しかし　ノートは必ず　もう１冊はある…|それがある限り　事件は解決とは言えない…=|There's another notebook though. I can never call this case closed as long as it's still out there.
 うっ…！|ぐわわわわああああ！！=Ugh! Aaaaah!
 …ッ！？|どうした　火口！？=Hm? What's wrong with Higuchi!?
-竜崎！　…火口が！！|…意識不明！！　ま…　まさか|いや…　しかし…　これは　もう…=Ryuzaki! Higuchi, he's...! It's impossible! B-But... There's nothing I can do. He's already...
+竜崎！　…火口が！！|…意識不明！！　ま…　まさか|いや…　しかし…　これは　もう…=Ryuzaki! Higuchi, he's...! It's impossible! B-But... There's nothing|I can do. He's already...
 ああ…　死んでるさ|次は　竜崎|おまえだ…=Yes. He's already dead.|And you're next, Ryuzaki.
 殺人ノートに書かれた　ノートの使い方…=A notebook of death...|How to use it...
 このノートに　名前を書き込んだ人間は|最も新しく名前を　書いた時から|１３日以内に　次の名前を書き込み|人を殺しつづけなければ　自分が死ぬ…=|If the person using the note fails to consecutively write names of people to be killed within 13 days of each other, the user will die.
