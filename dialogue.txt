@@ -1,0 +1,106 @@
+5 sections
+
+character's first line in section is marked with #name
+
+characters appear in consistent order
+Light
+Ryuzaki
+Misa
+Soichiro
+Matsuda
+Mogi
+Naomi
+Sayu
+Aizawa
+Raye
+Watari
+Higuchi
+Namikawa
+Ooi
+NeoLight
+Near
+Mello
+Mikami
+Takada
+
+several lines have casual/ formal versions together
+
+if there are multiple possible lines in a category, as far as I can tell they are chosen at random
+
+the casual or formal version of the line will be used depending on the character's relationship with the target, but the line will otherwise be the set once your turn starts
+
+this means using save states will not work to produce different lines from the same category even if the target is changed (casual/ formal not withstanding)
+
+section 1: lines 2 - 1483 (normal Kira Game dialogue)
+Doubt ↑ - 6 lines
+Doubt ↑↑ - 6 lines
+Trust ↑ Doubt ↓ - 6 lines
+Trust ↓ Doubt ↑ - 6 lines
+Trust ↑↑ Doubt ↓↓ - 6 lines
+Trust ↓↓ Doubt ↑↑ - 6 lines
+
+Agree - 6 lines
+Disagree - 6 lines
+
+Counter/ Debate
+attack Trust 100 - 2 lines
+attack Doubt ↑ multiple people - 2 lines
+attack Pass after Kira's judgement - 2 lines
+defend Doubt ↓ multiple people - 2 lines
+defend Doubt ↑ single person - 2 lines
+defend Trust not 100 - 2 lines
+counter - 6 lines (I believe these depend on the number of counters in debate but I'm not sure)
+
+Stunning Arguments
+Doubt All ↑ - 2 lines
+Doubt All ↓ - 2 lines
+Influence ↑ - 2 lines
+Max Influence ↑ - 2 lines
+Unique - 2 lines
+
+Pass - 2 lines
+
+section 2: lines 1510 - 1648 (game end quote)
+win L - 1 line
+lose L - 1 line
+win Kira - 1 line
+lose Kira - 1 line
+win L successful investigation - 1 line
+win Kira no Death Note - 1 line
+win Kira Death Note - 1 line
+(I'm not entirely sure about the Kira win quotes. You may be able to use the Death Note then vote L out and still get the 'no Death Note' quote. I'm guessing the different win quotes without the Death Note depend on whether you also voted L or not, but I haven't confirmed it.)
+
+section 3: lines 1649 - 1781 (Out by vote or judgement)
+voted out - 1 line
+voted out Kira - 1 line
+voted out not Kira - 1 line
+voted out L - 1 line
+judged - 1 line
+judged L - 1 line
+judged not L - 1 line
+(I believe it always uses the 'voted out' or 'judged' line then uses another depending on your role.)
+
+section 4: lines 4159 - 4557 (vote, investigation, Death Note selection)
+2 lines
+investigation select - 1 line
+investigation confirm - 1 line
+investigation Kira - 1 line
+investigation not Kira - 1 line
+Death Note yes/ no - 1 line
+Death Note select - 1 line
+Death Note confirm - 1 line
+vote select - 1 line
+vote confirm - 1 line
+arrest - 1 line
+arrest player - 1 line
+arrest Kira successful investigation - 1 line
+1 line
+no arrest - 1 line
+3 lines
+(some of the unmarked lines in this section are repeated in another section. I'm also the least confident about how to activate the lines in this section)
+
+section 5: lines 4558 - 4861 (random hints on bottom screen)
+maybe Kira - 4 lines
+maybe not Kira - 4 lines
+maybe L - 4 lines
+maybe not L - 4 lines
