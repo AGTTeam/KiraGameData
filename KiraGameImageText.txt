@@ -36,14 +36,14 @@ work_IMG
 			機能=Function
 			発言力=Influence
 			疑惑度=Doubt
-			あと　秒
+			あと　秒=Left  s
 			思案中… = Thinking...
-			必殺発言内容=#shows in the background when selecting a 必殺技
+			必殺発言内容=Stunning Argument
 			これでよろしいですか？
 			パス = Pass
 			画面タッチで次に進みます = Tap to continue.
-			必殺発言を行う人にスライドさせて下ください｜タッチで情報を確認します
-			対戦相手をお待ち下さい
+			必殺発言を行う人にスライドさせて下ください｜タッチで情報を確認しますSelect a target.｜Tap a character for more info.
+			対戦相手をお待ち下さい=Waiting for other player.
 		function.png
 			機能 = Function
 			キラゲーム｜を｜やり直す = Restart Kira Game
