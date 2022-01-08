@@ -142,7 +142,7 @@ work_IMG
 			効果音音量 = SFX Volume
 			全ての記録を消す = Erase save data
 		playguide.png
-		playmemo.png
+		playmemo.png#done
 			プレイメモ = Play Memo
 			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
 			プレイメモ０２｜「Lの見分け方」 = Play Memo 02|Finding L
@@ -294,14 +294,14 @@ work_NSBMD
 		bg043a_bg043a.png
 			キラの｜裁き = Kira's Judgement
 		douchou_douchou.png#done
-		etut00k_etut00k.png
+		etut00k_etut00k.png#done
 			キラ役の使命はLへの裁き = Kira's objective is to judge L.
 			信頼度を最大にした相手から｜Lに関する情報が入手できる = Information relating to L can be obtained by raising Trust to its max with another player.
 			Lが誰なのか特定できたら・・・ = If you can identify L...
 			以下の人物はLの務いあり = Common tactics employed by L
 			・全部の信頼度をまんべんなく上げる者 = Raising everyone's Trust
 			・こちらの疑惑度をしつこく上げてくる者 = Raising a single person's Doubt
-		etut00l_etut00l.png
+		etut00l_etut00l.png#done
 			L役の使命はキラの検挙 = L's objective is to arrest Kira
 			Lは　投票の後に｜誰が一人を「調査」できる｜疑わしい人物から調べろ = L can Investigate one person after each voting phase.
 			この人を調査します #find original screen
@@ -309,19 +309,19 @@ work_NSBMD
 			以下の人物はキラの疑いあり = Common tactics employed by Kira.
 			・他人の疑惑度を見境なく上げる者 = Raising Doubt indiscriminately
 			・誰かの信頼度を最大にした者 = Maximizing trust with a single person
-		etut01k_etut01k.png
+		etut01k_etut01k.png#done
 			裁きは慎重に遂行せよ = Be careful when casting Judgement.
 			Lではない人物を裁くと|発言力の最大値が大幅に減少してしまう = Judging a person who is not L will greatly reduce your Max Influence.
 			ノートを使わず　Lを検挙に導いて勝つ方が安全 = It is safer to have L arrested without using the Death Note.
 			キラ崇拝者を利用しろ = Take advantage of Kira's followers.
 			捜査員の中に一人だけ潜む崇拝者は|キラが誰か最初から知っていて|キラの疑惑度を下げようとする|崇拝者を見つけたら　味方として温存せよ = A single follower lurks among the investigators who will know Kira's identity from the start. They will attempt to reduce Kira's Doubt. If you find the follower, guard them as an ally.
-		etut01l_etut01l.png
+		etut01l_etut01l.png#done
 			誤認逮捕を回避せよ = Avoid false arrests.
 			キラではない人物を検挙すると|発言力の最大値が減少してしまう = If a person who is not Kira is arrested, your Max Influence will decrease.
 			むやみに他人の疑惑度を上げるのは禁物 = Don't raise the Doubt of others unnecessarily.
 			キラ崇拝者をマークしろ = Make note of Kira's followers.
 			捜査員の中に一人だけ潜む崇拝者は|キラが誰か最初から知っていて|キラの疑惑度を下げようとする|崇拝者を見つけたら　その行動に注意せよ = A single follower lurks among the investigators who will know Kira's identity from the start. They will attempt to reduce Kira's Doubt. If you find the follower, be careful of their actions.
-		etut10a_etut10a.png
+		etut10a_etut10a.png#done
 			捜査員 = Investigators
 			信頼度ゲージ = Trust Gauge
 			疑惑マーク = Doubt Marker
@@ -333,7 +333,7 @@ work_NSBMD
 			発言力｜41/100 = Influence
 			疑惑度 = Doubt
 			#find play screen for background
-		etut11a_etut11a.png
+		etut11a_etut11a.png#done
 			捜査員の顔アイコンに｜ふきだしを選んで発言 = Slide a speech bubble to the desired investigator's icon.
 			相手の信頼度・疑惑度が｜発言の効果で変動 = The argument will determine the change in Trust and Doubt.
 			効果に応じて｜発言力を消費する = Influence will be consumed according to the effect.
@@ -342,7 +342,7 @@ work_NSBMD
 			ふきだしの基本的な使い方 = An Argument's basic effects
 			・怪しい者の疑惑度を上げる = Raise the Doubt of a suspicious person
 			・味方にしたい者の信頼度を上げる = Increase the Trust with a potential ally
-		etut12a_etut12a.png
+		etut12a_etut12a.png#done
 			必殺 = Stunning Argument
 			・必殺発言を使って４つの効果と｜キャラ固有の特殊効果を発揮 = Activate a Stunning Argument for four special effects or an effect unique to each character.
 			調査−２０ = Agree
@@ -354,7 +354,7 @@ work_NSBMD
 			パス = Pass
 			・発言をパスして発言力を温存 = Pass to preserve Influence.
 			ただし、沈黙は疑いを招く・・・ = However, silence raises suspicion.
-		etut13a_etut13a.png
+		etut13a_etut13a.png#done
 			投票には要注意 = Be cautious of voting.
 			疑惑度が上がって　疑惑マークがつくと|ターン終了時の投票でキラとみなされ = Doubt Markers are attached above a certain threshold and may lead to an arrest at the end of the round.
 			検挙＝ゲームオーバー = Get arrested, and it's game over.
@@ -363,12 +363,12 @@ work_NSBMD
 			・信頼度を上げると投票を避けられる = Raise Trust to receive fewer votes
 			・他人の疑惑度を上げると票が割れる = Raise another player's Doubt to tie votes
 			次の投票までが勝負！ = Every vote could be the last!
-		etut14a_etut14a.png
+		etut14a_etut14a.png#done
 			・疑惑度を上げるふきだし|怪しい者の疑惑度を上げる = Raise Doubt and lower Trust
 			・疑惑度だけを上げるふきだし = Raise Doubt
 			デメリットがない分|消費発言力が多い = No negative effect|Consume more Influence
 			・信頼度を上げるふきだし|味方にしたい者の信頼度を|上げる = Raise Trust to create potential allies
-		etut15a_etut15a.png
+		etut15a_etut15a.png#done
 			キラの勝利条件 = Kira's win conditions
 			・「キラの裁き」でLを裁いた = L judged by Kira
 			・投票の結果Lを検挙した = L arrested after vote
