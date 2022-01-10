@@ -5,7 +5,7 @@ work_IMG
 		underbg3.png#done
 			脱落 = Out
 	kira_game
-		continue.png
+		continue.png#done
 			ゲームを｜やり直す = Restart game
 			ゲームを｜終わる = End game
 			続けて｜プレイ = Continue game
@@ -63,7 +63,7 @@ work_IMG
 			名前を書く人にスライドさせて下さい = Select a person to use the Death Note on.
 			この人でいいですか？ = Write name?
 			投票画面へ = Voting Screen
-		playguide.png
+		playguide.png#done
 			ゲーム解説 = Guide
 			チュートリアル = Tutorial
 			チュートリアル = Tutorial
@@ -113,7 +113,7 @@ work_IMG
 			高田 = Takada
 			選択画面に戻る = Return to selection screen
 			イベントCG = Event CG
-		extra.png
+		extra.png#done
 			エキストラ = Extras
 			サウンド｜テスト = Sound Test
 			サウンド｜テスト = Sound Test
@@ -127,21 +127,21 @@ work_IMG
 			話をスキップする = Skip dialogue
 			次の説明を聞く = Next tutorial#or Continue
 			もう一度同じ説明を聞く = Repeat explanation
-		modeselect.png
+		modeselect.png#done
 			モード｜セレクト = Mode Select
 			シングル｜モード = Solo
 			対戦｜モード = VS
 			エキストラ = Extras
 			ゲーム｜解説 = Guide
 			オプション = Options
-		modeselect2.png
+		modeselect2.png#done
 			ストーリー｜モード = Story Mode
-		option.png
+		option.png#done
 			オプション = Options
 			音楽音量 = Music Volume
 			効果音音量 = SFX Volume
 			全ての記録を消す = Erase save data
-		playguide.png
+		playguide.png#done
 		playmemo.png#done
 			プレイメモ = Play Memo
 			プレイメモ０１｜「キラの見分け方」= Play Memo 01|Finding Kira
@@ -156,7 +156,7 @@ work_IMG
 			プレイメモ１０｜「信頼度であぶり出し」= Unspoken Trust
 			プレイメモ１１｜「対戦モードのコツ」= Play Memo 11|Tips for VS Mode
 			プレイメモ１２｜「プレイメモを越えろ」= Play Memo 12|Surpass the Guide!
-		single.png#Phantom
+		single.png#done
 			シングル｜モード = Solo
 			選べません = Unavailable
 			再開｜する = Resume Game
@@ -186,7 +186,7 @@ work_IMG
 			画面タッチで進みます = Tap to continue.
 			画面タッチでキラゲーム開始 = Tap to start Kira Game.
 			タイトルに戻る = Return to title
-		story_restart.png
+		story_restart.png#Done except ‘Chapter Select’ title
 			最初｜から = New Game
 			ストーリー｜セレクト = Chapter Select
 			第１話｜「開始」= Chapter 1|Rebirth
@@ -211,7 +211,7 @@ work_IMG
 			プロローグ = Prologue
 			画面タッチでメッセージを進めます = Tap to continue. #not found
 		understaff.png
-		vsmode.png
+		vsmode.png#done
 			対戦モード = VS Mode
 			募集 = Host
 			参加｜する = Join
@@ -222,7 +222,7 @@ work_IMG
 			対戦開始 = Start Game
 			切断する = Disconnect
 			参加する = Joining
-		vsmode2.png
+		vsmode2.png#done
 		vsmode3.png
 			メンバー人数の｜選択 = Investigator Select
 			サポート投票設定 = Hint Messages
