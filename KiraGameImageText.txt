@@ -201,7 +201,7 @@ work_IMG
 			第１０話｜「終焉」= Chapter 10|Demise
 			第１１話　月｜「神曲」= Chapter 11 Light|Divinity
 			第１１話　竜崎｜「正義」= Chapter 11 Ryuzaki|Justice
-		title_under.png
+		title_under.png#unused
 			DEATH NOTEをタッチ = Tap Death Note
 		tuto_face.png#done
 			脱落 = Out
@@ -375,7 +375,7 @@ work_NSBMD
 			・キラとLの２人だけになった = Only L and Kira remain
 			Lの勝利条件 = L's win conditions
 			・投票の結果キラを検挙した = Kira arrested after vote
-		getapple_getapple.png
+		getapple_getapple.png#done
 			ボーナス条件達成 = Bonus conditions met
 		giwaku2a_giwaku2a.png#done
 		hanron_hanron.png#done
@@ -431,9 +431,9 @@ work_NSBMD
 			崇拝者が検挙｜されない状態でクリア = Clear without arresting Kira's follower.
 		req20a_req20a.png
 			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
-		taikou1a_taikou1a.png
+		taikou1a_taikou1a.png#done
 			対抗発言に勝利！
-		taikou2a_taikou2a.png
+		taikou2a_taikou2a.png#done
 			対抗発言に敗北
 		title04a_title04a.png
 		title05a_title05a.png
@@ -443,44 +443,44 @@ work_NSBMD
 		faceall_faceall.png#done
 			全員 = All
 	menu
-		csele00a_csele00a.png
+		csele00a_csele00a.png#done
 			専用必殺発言効果 = Unique Stunning Argument Effect#repeated through csele
 			自分の疑惑度を０にする = Set your own Doubt to 0.
-		csele01a_csele01a.png
+		csele01a_csele01a.png#done
 			全部の疑惑度を｜一律５０にする = Set everyone's Doubt to 50.
-		csele02a_csele02a.png
+		csele02a_csele02a.png#done
 			指定した人物の｜自分に対する信頼度を｜１００にする = Set the selected person's Trust to 100.
-		csele03a_csele03a.png
+		csele03a_csele03a.png#done
 			全員の｜自分に対する信頼度を｜一律６０にする = Set everyone's Trust to 60.
-		csele04a_csele04a.png
+		csele04a_csele04a.png#done
 			全員の発言力を｜最大１０奪って｜自分の発言力に加える = Take 10 Influence from everyone.
-		csele05a_csele05a.png
+		csele05a_csele05a.png#done
 			全員の発言力最大値を｜１０減らす = Reduce everyone's Max Influence by 10.
-		csele06a_csele06a.png
+		csele06a_csele06a.png#done
 			指定した人物と自分の｜疑惑度の値を取り替える = Swap Doubt with the selected person.
-		csele07a_csele07a.png
+		csele07a_csele07a.png#done
 			全員の発言力を｜一律４０にする = Set everyone's Influence to 40.
-		csele08a_csele08a.png
+		csele08a_csele08a.png#done
 			指定した人物の自分に｜対する信頼度を１００にして｜さらに疑惑度を０にする = Set the selected person's Trust to 100 and Doubt to 0.
-		csele09a_csele09a.png
+		csele09a_csele09a.png#done
 			発言力の最大値を｜１０増やし　さらに｜最大値まで回復する = Increase Max Influence by 10 and fully replenish Influence.
-		csele10a_csele10a.png
+		csele10a_csele10a.png#done
 			全員の疑惑度を｜一律２０減らす = Reduce everyone's Doubt by 20.
-		csele11a_csele11a.png
+		csele11a_csele11a.png#done
 			自分の発言力の最大値を｜４０増やす = Increase Max Influence by 40.
-		csele12a_csele12a.png
+		csele12a_csele12a.png#done
 			自分以外の　疑惑度が｜一番高い人物の｜疑惑度を１００にする = Set the Doubt of the most suspicious person other than yourself to 100.
-		csele13a_csele13a.png
+		csele13a_csele13a.png#done
 			全員の疑惑度を｜一律２０増やす = Increase everyone's Doubt by 20.
-		csele14a_csele14a.png
+		csele14a_csele14a.png#done
 			指定した人物の｜発言力最大値を３０減らす = Reduce the selected person's Max Influence by 30.
-		csele15a_csele15a.png
+		csele15a_csele15a.png#done
 			指定した人物の｜発言力を０にする = Set the selected person's Influence to 0.
-		csele16a_csele16a.png
+		csele16a_csele16a.png#done
 			指定した人物の｜自分に対する信頼度を｜１００にする　同時に｜自分以外に対しては｜全て０にする = Set the selected person's Trust to 100. Set everyone else's Trust to 0.
-		csele17a_csele17a.png
+		csele17a_csele17a.png#done
 			疑惑マークがついている｜全員から　疑惑マークを｜１つずつ消す = Remove one Doubt Marker from every person who has one.
-		csele18a_csele18a.png
+		csele18a_csele18a.png#done
 			指定した人物の｜発言力を４０減らす = Reduces the selected person's Influence by 40.
 		exp_extra_exp_extra.png
 			エキストラ = Extras
@@ -506,7 +506,7 @@ work_NSBMD
 		exp_vs_exp_vs.png
 			対戦モード = VS Mode
 			DS同士を通信でつなぎ｜キラゲームで｜対戦を行います = Battle your friends in the Kira Game using the DS's wireless communication.
-		titletouch_titletouch.png
+		titletouch_titletouch.png#done
 			DEATHNOTEをタッチ = Tap the Death Note.
 	name
 		name000a_name00a.png#done
@@ -566,20 +566,20 @@ work_NSBMD
 	story
 		chapt01a_chapt01a.png
 		chapt02a_chapt02a.png
-		epbg00a_epbg00a.png
-		epbg01a_epbg01a.png
-		epbg1xa_epbg1xa.png
+		epbg00a_epbg00a.png#done
+		epbg01a_epbg01a.png#done
+		epbg1xa_epbg1xa.png#done
 			episode 11-竜崎 = Ryuzaki
-		epbg02a_epbg02a.png
-		epbg03a_epbg03a.png
-		epbg04a_epbg04a.png
-		epbg05a_epbg05a.png
-		epbg06a_epbg06a.png
-		epbg07a_epbg07a.png
-		epbg08a_epbg08a.png
-		epbg09a_epbg09a.png
-		epbg10a_epbg10a.png
-		epbg11a_epbg11a.png
+		epbg02a_epbg02a.png#done
+		epbg03a_epbg03a.png#done
+		epbg04a_epbg04a.png#done
+		epbg05a_epbg05a.png#done
+		epbg06a_epbg06a.png#done
+		epbg07a_epbg07a.png#done
+		epbg08a_epbg08a.png#done
+		epbg09a_epbg09a.png#done
+		epbg10a_epbg10a.png#done
+		epbg11a_epbg11a.png#done
 			episode 11-月 = Light
 		evt004a_evt004a.png
 			キラ特集 = Who is Kira?
