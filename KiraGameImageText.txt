@@ -79,12 +79,12 @@ work_IMG
 			お待ちください・・・・・・ = Please wait.
 			投票が同数になりました = The number of votes is the same.
 			再投票をしてください = Please vote again.
-		winlose.png
+		winlose.png#done
 			勝利者 = Victory
 			敗北者 = Defeat
 			キラ検挙による勝利 = Kira has been arrested.
 			キラの裁きによる敗北 = L has been judged by Kira.
-			Lがされたため敗北 = Only L and Kira remain.
+			Lが検挙されたため敗北 = L has been arrested.
 			Lに検挙されたため敗北 = Kira has been arrested.
 			Lが検挙されたため勝利 = L has been arrested.
 	menu
@@ -234,43 +234,43 @@ work_IMG
 			正義だ！！ = JUSTICE!
 work_NSBMD
 	balloon
-		balh00a_balh00a.png
+		balh00a_balh00a.png#done
 			この僕が｜そんな人間に｜見えるのか？ = Do I seem like that kind of person to you?#Light
-		balh01a_balh01a.png
+		balh01a_balh01a.png#done
 			では・・・｜全員灰色で・・・ = He who strikes first, wins.#Ryuzaki
-		balh02a_balh02a.png
+		balh02a_balh02a.png#done
 			ミサの事｜信用してね = I'll work hard to make you love me.#Misa
-		balh03a_balh03a.png
+		balh03a_balh03a.png#done
 			私は絶対降りない｜悪に屈しては｜ならない = I will not succumb to evil.#Soichiro
-		balh04a_balh04a.png
+		balh04a_balh04a.png#done
 			僕にも言わせて｜下さいよ = I want to be useful too.#Matsuda
-		balh05a_balh05a.png
+		balh05a_balh05a.png#done
 			今は何も｜言っては駄目だ・・・ = There's nothing that needs to be said.#Mogi
-		balh06a_balh06a.png
+		balh06a_balh06a.png#done
 			私の考えが正しければ｜これで｜全てうまくいく・・・ = If my analysis so far is correct, this case will be solved in no time.#Naomi
-		balh07a_balh07a.png
+		balh07a_balh07a.png#done
 			みんな　もっと｜話しましょ！ = C'mon, you guys, let's keep talking!#Sayu
-		balh08a_balh08a.png
+		balh08a_balh08a.png#done
 			私は｜あなたを信じる = I trust you.#Aizawa
-		balh09a_balh09a.png
+		balh09a_balh09a.png#done
 			危険だ　やめろ｜その時は私がやる = That's risky. If it comes to that, I'll take care of it.#Raye
-		balh10a_balh10a.png
+		balh10a_balh10a.png#done
 			少しアタマを｜冷やしたほうが｜よさそうです = Let's all keep a cool head.#Watari
-		balh11a_balh11a.png
+		balh11a_balh11a.png#done
 			これで俺は最強だ｜これなら｜いくらでも手がある = I'm invincible. I have more than enough options now.#Higuchi
-		balh12a_balh12a.png
+		balh12a_balh12a.png#done
 			ふっ・・・皆　大体｜わかってるんじゃ｜ないか・・・ = Hmph. I think we're all on the same page here.#Namikawa
-		balh13a_balh13a.png
+		balh13a_balh13a.png#done
 			勝つために・・・｜誰を消すか = If we're to win, who should we kill?#Ooi
-		balh14a_balh14a.png
+		balh14a_balh14a.png#done
 			やはり勝つには｜先手を打つ事だ = I'll make you trust me. And when you've told me everything I need to know, I'll kill you.#NeoLight
-		balh15a_balh15a.png
+		balh15a_balh15a.png#done
 			決着をつけます = If you can't solve the puzzle, you're nothing but a loser.#Near
-		balh16a_balh16a.png
-			あんたは｜俺の言う事を｜聞くしかない = It's mu turn to use you.#Mello
-		balh17a_balh17a.png
+		balh16a_balh16a.png#done
+			あんたは｜俺の言う事を｜聞くしかない = It's my turn to use you.#Mello
+		balh17a_balh17a.png#done
 			削除 = Delete.#Mikami
-		balh18a_balh18a.png
+		balh18a_balh18a.png#done
 			不愉快です = How unpleasant.#Takada
 	bg
 		bg006a_taikou.png#done
