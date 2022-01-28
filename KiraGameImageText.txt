@@ -186,7 +186,7 @@ work_IMG
 			画面タッチで進みます = Tap to continue.
 			画面タッチでキラゲーム開始 = Tap to start Kira Game.
 			タイトルに戻る = Return to title
-		story_restart.png#Done except ‘Chapter Select’ title
+		story_restart.png#Done
 			最初｜から = New Game
 			ストーリー｜セレクト = Chapter Select
 			第１話｜「開始」= Chapter 1|Rebirth
@@ -482,28 +482,28 @@ work_NSBMD
 			疑惑マークがついている｜全員から　疑惑マークを｜１つずつ消す = Remove one Doubt Marker from every person who has one.
 		csele18a_csele18a.png#done
 			指定した人物の｜発言力を４０減らす = Reduces the selected person's Influence by 40.
-		exp_extra_exp_extra.png
+		exp_extra_exp_extra.png#done
 			エキストラ = Extras
 			キラゲーム中の｜グラフィックの閲覧や｜音楽の再生を行います = View graphics and listen to music from the Kira Game.
-		exp_guide_exp_guide.png
+		exp_guide_exp_guide.png#done
 			ゲーム解説 = Guide
 			キラゲームを｜プレイする上での｜テクニックを紹介します = Review techniques for playing the Kira Game.
-		exp_mselect_exp_mselect.png
+		exp_mselect_exp_mselect.png#done
 			モード｜セレクト = Mode Select
 			６つのモードを｜選択します = Select from six available modes.
-		exp_option_exp_option.png
+		exp_option_exp_option.png#done
 			オプション = Options
 			ゲーム中の音量設定と｜カード内の記録を｜初期状態に戻します = Set in-game volume and reset save data information.
-		exp_playmemo_exp_playmemo.png
+		exp_playmemo_exp_playmemo.png#done
 			プレイメモ = Play Memo
 			キラゲームを｜プレイする上での｜テクニックを紹介します = Review techniques for playing the Kira Game.
-		exp_single_exp_single.png
+		exp_single_exp_single.png#done
 			シングル｜モード = Solo
 			CPUと　キラゲームで｜対戦を行います = Play the Kira Game against the CPU.
-		exp_story_exp_story.png
+		exp_story_exp_story.png#done
 			ストーリー｜モード = Story Mode
 			キラゲームを主軸に｜ドラマチックなストーリーが｜展開します = Follow the Kira Game's dramatic story as it unfolds.
-		exp_vs_exp_vs.png
+		exp_vs_exp_vs.png#done
 			対戦モード = VS Mode
 			DS同士を通信でつなぎ｜キラゲームで｜対戦を行います = Battle your friends in the Kira Game using the DS's wireless communication.
 		titletouch_titletouch.png#done
