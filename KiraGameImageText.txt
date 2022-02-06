@@ -274,17 +274,17 @@ work_NSBMD
 			不愉快です = How unpleasant.#Takada
 	bg
 		bg006a_taikou.png#done
-		bg010a_bg010a.png
+		bg010a_bg010a.png#done
 			Lの調査 = L's Investigation
-		bg011a_bg011a.png
+		bg011a_bg011a.png#done
 			調査　結果 = Investigation Results
 		bg012a_bg012a.png
 			確定者 = Confirmed
-		bg020a_bg020a.png
+		bg020a_bg020a.png#done
 			KIRAの行動 = Kira's Action
-		bg030a_bg030a.png
+		bg030a_bg030a.png#done
 			容疑者投票 = Suspect Vote
-		bg031a_bg031a.png
+		bg031a_bg031a.png#done
 			誰が誰を = Vote (White) Tally (Red)
 			検挙するべきだと = Who will be arrested?
 		bg040a_bg040a.png
