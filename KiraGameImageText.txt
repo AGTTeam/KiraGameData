@@ -44,7 +44,7 @@ work_IMG
 			画面タッチで次に進みます = Tap to continue.
 			必殺発言を行う人にスライドさせて下ください｜タッチで情報を確認しますSelect a target.｜Tap a character for more info.
 			対戦相手をお待ち下さい=Waiting for other player.
-		function.png
+		function.png#done
 			機能 = Function
 			キラゲーム｜を｜やり直す = Restart Kira Game
 			タイトルへ｜戻る = Return to title
@@ -88,7 +88,7 @@ work_IMG
 			Lに検挙されたため敗北 = Kira has been arrested.
 			Lが検挙されたため勝利 = L has been arrested.
 	menu
-		0_title.png
+		0_title.png#done
 			キラゲーム
 		ex_inspect.png
 			CG閲覧 = CG Viewer
@@ -180,7 +180,7 @@ work_IMG
 			「なし」を選ぶと過半数以下でも得票の多い人が検挙されます = While "Off" the player with the most votes will be arrested even if the majority is below half.
 			「なし」を選ぶとLとキラのサポートセリフを非表示にします = While "Off" hint messages will be hidden.
 			１-３回 = 1   2   3 #just remove the kanji and center number
-		story_intro.png
+		story_intro.png#done
 			ストーリー｜モード = Story Mode
 			スキップ = Skip
 			画面タッチで進みます = Tap to continue.
@@ -278,7 +278,7 @@ work_NSBMD
 			Lの調査 = L's Investigation
 		bg011a_bg011a.png#done
 			調査　結果 = Investigation Results
-		bg012a_bg012a.png
+		bg012a_bg012a.png#done
 			確定者 = Confirmed
 		bg020a_bg020a.png#done
 			KIRAの行動 = Kira's Action
@@ -287,11 +287,11 @@ work_NSBMD
 		bg031a_bg031a.png#done
 			誰が誰を = Vote (White) Tally (Red)
 			検挙するべきだと = Who will be arrested?
-		bg040a_bg040a.png
+		bg040a_bg040a.png#done
 			検挙 = Arrested
 		bg042a_bg042a.png#done
 			脱落 = Out
-		bg043a_bg043a.png
+		bg043a_bg043a.png#done
 			キラの｜裁き = Kira's Judgement
 		douchou_douchou.png#done
 		etut00k_etut00k.png#done
@@ -386,50 +386,50 @@ work_NSBMD
 			開
 		kaishi1a_kaishi1a.png#done
 			始
-		req01a_req01a.png
+		req01a_req01a.png#done
 			勝利条件 = Win Conditions#repeated through req
 			役職『キラ』で勝利する = Win as Kira/L.#repeated through req, can be L or Kira in parentheses
 			ボーナス条件 = Bonus Conditions#repeated through req
 			３ターン以内にクリア = Clear within 3 rounds.
-		req02a_req02a.png
+		req02a_req02a.png#done
 			松田の疑惑度が｜０の状能でクリア = Clear with Matsuda's Doubt at 0.
-		req03a_req03a.png
+		req03a_req03a.png#done
 			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.
-		req04a_req04a.png
+		req04a_req04a.png#done
 			キラを１回目の投票パートで｜検挙してクリア = Clear by having Kira arrested after the first voting phase.
-		req05a_req05a.png
+		req05a_req05a.png#done
 			相沢と松田からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Aizawa and Matsuda's Trust at 100.
-		req06a_req06a.png
+		req06a_req06a.png#done
 			Lを１回目のキラパートで裁いてクリア = Clear by judging L at the end of the first round.
-		req07a_req07a.png
+		req07a_req07a.png#done
 			粧裕と総一郎からの｜信頼度が　それぞれ｜１００の状態でクリア = Clear with Sayu and Soichiro's Trust at 100.
-		req08a_req08a.png
+		req08a_req08a.png#done
 			海砂と月の疑惑度が｜１００状態でクリア = Clear with Misa and Light's Doubt at 100.
-		req09a_req09a.png
+		req09a_req09a.png#done
 			役職「キラ」で自分を検挙させる = Have yourself arrested as Kira.
 			３回目の投票までに｜検挙される = Get arrested by the end of the third vote.
-		req10a_req10a.png
+		req10a_req10a.png#done
 			総一郎からの信頼度が｜１００の状態でクリア = Clear with Soichiro's Trust at 100.
-		req11a_req11a.png
+		req11a_req11a.png#done
 			自分の疑惑度が｜０の状態でクリア = Clear with your own Doubt at 0.
-		req12a_req12a.png
+		req12a_req12a.png#done
 			疑惑マークを｜２個つけられた事が｜１度もない状態でクリア = Clear without ever having two Doubt Markers.
-		req13a_req13a.png
+		req13a_req13a.png#done
 			火口・奈南川・尾々井からの｜信頼度がそれぞれ５０を｜下回らない状態でクリア = Clear without Higuchi, Namikawa, and Ooi's Trust falling below 50.
-		req14a_req14a.png
+		req14a_req14a.png#done
 			役職「キラ」で｜火口の信頼度が１００の｜状態でクリア = Clear as Kira with Higuchi's Trust at 100.
 			火口の疑惑度が｜０の状態でクリア = Clear with Higuchi's Doubt at 0.
-		req15a_req15a.png
+		req15a_req15a.png#done
 			全員からの信頼度が｜５０を下回らない｜状態でクリア = Clear without anybody's Trust falling below 50.
-		req16a_req16a.png
+		req16a_req16a.png#done
 			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
-		req17a_req17a.png
+		req17a_req17a.png#done
 			崇拝者を｜検挙した状態でクリア = Clear after first arresting Kira's follower.
-		req18a_req18a.png
+		req18a_req18a.png#done
 			Lを１回目のキラパートで｜裁いてクリア = Clear by judging L at the end of the first round.#needs testing
-		req19a_req19a.png
+		req19a_req19a.png#done
 			崇拝者が検挙｜されない状態でクリア = Clear without arresting Kira's follower.
-		req20a_req20a.png
+		req20a_req20a.png#done
 			キラを｜１回目の投票パートで｜検挙してクリア = Clear by arresting Kira after the first voting phase.
 		taikou1a_taikou1a.png#done
 			対抗発言に勝利！
@@ -586,6 +586,6 @@ work_NSBMD
 			今回は絶対真実 = The truth revealed!
 			キラの正体！！ = Kira's identity!
 		tut00a_tut00a.png#done
-		tut03a_bg030a.png
-		tut04a_bg010a.png
-		tut05a_bg020a.png
+		tut03a_bg030a.png#done
+		tut04a_bg010a.png#done
+		tut05a_bg020a.png#done
