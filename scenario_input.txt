@@ -1463,8 +1463,8 @@
 続けて同じ人の|疑惑度を上げているからです=They've continually targeted|the same person.#ok
 あの人は|信頼度を１００にしていません=They've yet to get their trust|to 100 with anyone.#ok
 あの人は|信頼度を１００にしていません=They've yet to get their trust|to 100 with anyone.#ok
-理解に苦しみます=I'm struggling to make heads|or tales of this.#ok
-理解に苦しみます=I'm struggling to make heads|or tales of this.#ok
+理解に苦しみます=I'm struggling to make heads|or tails of this.#ok
+理解に苦しみます=I'm struggling to make heads|or tails of this.#ok
 その発言は|正確さに欠けると思いますけど=That statement is fallacious,|and you know it.#ok
 その意見は|正確さに欠けると思いますけど=That statement is fallacious,|and you know it.#ok
 意味のない議論を|続けるべきではありません=I see no reason to continue|this meaningless discussion.#ok
