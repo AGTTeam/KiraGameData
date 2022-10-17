@@ -1319,8 +1319,8 @@
 こんなゲーム　何の意味もない=This game's pointless.#ok
 お前らには負けない=I won't lose to you.#ok
 お前らには負けない=I won't lose to you.#ok
-俺がナンバー１になるんだ=俺がナンバー１になるんだ=I will be the best.#ok
-俺がナンバー１になるんだ=俺がナンバー１になるんだ=I will be the best.#ok
+俺がナンバー１になるんだ=I will be the best.#ok
+俺がナンバー１になるんだ=I will be the best.#ok
 悪いな　%…=Sorry, %.#ok
 悪いな　%…=Sorry, %.#ok
 ………=.........
