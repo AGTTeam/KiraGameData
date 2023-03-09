@@ -1319,8 +1319,8 @@
 こんなゲーム　何の意味もない=This game's pointless.#ok
 お前らには負けない=I won't lose to you.#ok
 お前らには負けない=I won't lose to you.#ok
-俺がナンバー１になるんだ=俺がナンバー１になるんだ=I will be the best.#ok
-俺がナンバー１になるんだ=俺がナンバー１になるんだ=I will be the best.#ok
+俺がナンバー１になるんだ=I will be the best.#ok
+俺がナンバー１になるんだ=I will be the best.#ok
 悪いな　%…=Sorry, %.#ok
 悪いな　%…=Sorry, %.#ok
 ………=.........
@@ -1463,8 +1463,8 @@
 続けて同じ人の|疑惑度を上げているからです=They've continually targeted|the same person.#ok
 あの人は|信頼度を１００にしていません=They've yet to get their trust|to 100 with anyone.#ok
 あの人は|信頼度を１００にしていません=They've yet to get their trust|to 100 with anyone.#ok
-理解に苦しみます=I'm struggling to make heads|or tales of this.#ok
-理解に苦しみます=I'm struggling to make heads|or tales of this.#ok
+理解に苦しみます=I'm struggling to make heads|or tails of this.#ok
+理解に苦しみます=I'm struggling to make heads|or tails of this.#ok
 その発言は|正確さに欠けると思いますけど=That statement is fallacious,|and you know it.#ok
 その意見は|正確さに欠けると思いますけど=That statement is fallacious,|and you know it.#ok
 意味のない議論を|続けるべきではありません=I see no reason to continue|this meaningless discussion.#ok
@@ -2120,7 +2120,7 @@
 …………松田さんは？=Where's Matsuda?
 …ですからですね！=You're probably wondering|why I'm here!
 ファッション雑誌などで現在活躍中！|来春公開予定の　映画|「春十八番」の主演！=She's all over the fashion magazines right now! And she's starring in a movie, "18th Spring"!
-マルチタレント　|弥海砂のマネージャー|わたくし　松井太郎で　ございます！=Yoshida Productions top multi-talented star, Misa Amane.|I'm her manager, Matsui Taro!
+マルチタレント　|弥海砂のマネージャー|わたくし　松井太郎で　ございます！=Yoshida Productions top multi-talented star, Misa Amane.|I'm her manager, Taro Matsui!
 弥海砂を　|ヨツバのイメージキャラとして|ＣＭなどに　いかがでしょうか！？=I dropped by to ask if your company would be interested in using her as your spokesperson!
 遅れました！　これが名刺です！=I'm sorry to barge in so late like this! Here! Please take my business card!
 マッツー　今月は　サイフが|ピンチって　竜崎さんが言ってたけど|どうなったの？　まだピンチの最中？=Matsu! Ryuzaki told me you were low on funds this month and were in a pinch. Tell me it's not true.
@@ -2159,7 +2159,7 @@
 そういう　粧裕ちゃんだって|ゆくゆくは　きっと|モデルになれるよ=You could become a model too someday, Sayu. I'm sure of it.
 （模木は黙ったまま|　何度も　うなずいている）=
 えー！？|そ…　そんな事ありませんよぉ=What!? N-No, not me.
-いやいや　そんな事あるさ！|そしたら　彼氏もできてさ…=No, really! I mean it! You could be a model, and then you'd have get a boyfriend who--
+いやいや　そんな事あるさ！|そしたら　彼氏もできてさ…=No, really! I mean it! You could be a model, and then you could get a boyfriend who--
 お…　おい|局長の前で　何を言…=H-Hey, that's the chief's daughter!
 松田…|そんな事には　断じてならん！=Matsuda... My daughter dating a cop is out of the question!
 弥海砂…　第２のキラ…|すぐに　始末しようかとも考えたが|ＴＶ局を使うような無理な　やり方は|キラに会いたいという　一心ゆえ…=Misa Amane, the second Kira...|I was going to get rid of her right away, but she swears she only did those things because she wanted to meet Kira.
@@ -2749,7 +2749,7 @@
 さあ　どう出る　夜神月？=Now, how will you get out of this, Light Yagami?
 この放送は　すでに見ているが|ビデオの出来の悪さに　吐き気がするのは|僕が本物のキラだからか？=This video is so mediocre. It's making me sick to my stomach. I don't know. Maybe it's because I'm the real one.
 まったく　キラのイメージダウン|どころの話ではない=|But this is a complete disgrace to everything Kira stands for.
-まあ　何にせよ　僕も　このビデオに|関しては　下手なことは　何も言わない事だ|余計な　知恵を貸す必要もない=Something's not right here. It unusual that no one bothered to explain this video to me.
+まあ　何にせよ　僕も　このビデオに|関しては　下手なことは　何も言わない事だ|余計な　知恵を貸す必要もない=Something's not right here. It's unusual that no one bothered to explain this video to me.
 …しかし　なぜ今頃　僕ひとりだけに|ビデオを見せるんだ？|何か　魂胆でもあるのか…=Well, in any case, I'd be stupid to comment on it. It's probably best if I say nothing.
 どうですか　月くん|何か　わかりましたか？=So what do you make of this, Light? Have you come to any conclusions?
 そうか……！！　こいつ！！=Damn! It's a test!!
@@ -3996,7 +3996,7 @@
 つまり　たった５日でＦＢＩの存在に気づき|その顔も名前も人数も　わからぬ|ＦＢＩ全員を消すために　死を操るテストの|必要があったと　考えられます=
 その８日後　全捜査官１２人が殺害されます|この８日間は　捜査官により多くの者を|調べさせ　自分の身を隠すための　時間稼ぎ=
 つまり　キラはＦＢＩが日本に入って|最初の５日間に　調べていた者の中にいる=
-今回キラは　ＦＢＩ全員の|顔と名前を知るために|かなり　無理をしています=Kira was too eager to get the names and faces of the twleve FBI agents.
+今回キラは　ＦＢＩ全員の|顔と名前を知るために|かなり　無理をしています=Kira was too eager to get the names and faces of the twelve FBI agents.
 このＦＢＩの線を洗えば|必ず　キラにたどりつけるはずです=If we follow this line, there's no doubt it will trace back to Kira.
 しかし　命を張って捜査する者は|もう我々だけ|我々もキラに殺されるかも　知れま…=However, we mustn't forget that we are putting our lives on the line here.
 …すごい！　ここまでわかっていれば|俺たちだけでも|十分捜査が　できる！=Amazing! With this much information, we should be able to cover a lot of ground!
