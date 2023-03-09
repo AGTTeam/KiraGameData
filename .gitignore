@@ -9,3 +9,4 @@ font_data.bin
 *.wav
 *.idb
 *.xdelta
+.DS_Store
