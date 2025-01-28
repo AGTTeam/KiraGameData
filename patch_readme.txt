@@ -72,6 +72,8 @@ We hope you enjoy!
 -Fixed several typos
 1.2
 -Fixed bugged gray speech bubbles introduced in version 1.1
+1.3
+-Fixed Japanese text in Mello's Max Influence line.
 
                          ===========================
                                 PATCH CREDITS       

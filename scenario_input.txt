@@ -1415,8 +1415,8 @@
 %がキラ……|ありえる事です=% could be Kira.|It's definitely a possibility.#ok
 %が|キラだとしたら…私は…=If % is Kira,|I will follow them.#ok
 %が|キラだとしたら…私は…=If % is Kira,|I will follow them.#ok
-%は　キラほど|何かを考えてるようには|思えないのですが……=I don't believe %|considers anything|as thorougly as Kira.#ok
-%は　キラほど|何かを考えてるようには|思えないのですが……=I don't believe %|considers anything|as thorougly as Kira.#ok
+%は　キラほど|何かを考えてるようには|思えないのですが……=I don't believe %|considers anything|as thoroughly as Kira.#ok
+%は　キラほど|何かを考えてるようには|思えないのですが……=I don't believe %|considers anything|as thoroughly as Kira.#ok
 %がキラなら|もう決着がついていても|おかしくないのでは？=If % is Kira, isn't it odd|that they've avoided capture|for so long?#ok
 %がキラなら|もう決着がついていても|おかしくないのでは？=If % is Kira, isn't it odd|that they've avoided capture|for so long?#ok
 私は%に|何も違和感を感じていませんが=I feel no malaise or unease|around %.#ok
@@ -1473,7 +1473,7 @@
 誰も……|信用できません=I can't trust anyone.#ok
 この中にキラがいるなんて…|本当でしょうか？=Is Kira really in this group?#ok
 この中にキラがいるなんて…|本当でしょうか？=Is Kira really in this group?#ok
-付き合っていられませんI can't be caught socializing|like this.#ok
+付き合っていられません=I can't be caught socializing|like this.#ok
 付き合っていられません=I can't be caught socializing|like this.#ok
 私はうわついた物は嫌いです=I truly despise such frivolous things.#ok
 私はうわついた物は嫌いです=I truly despise such frivolous things.#ok
